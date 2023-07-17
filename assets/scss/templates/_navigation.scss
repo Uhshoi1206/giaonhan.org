@@ -1,43 +1,4 @@
 /* 2. Navigation */
-.top-header {
-  background: $secondary-color;
-
-  ul {
-    @include mobile {
-      text-align: center;
-    }
-
-    li {
-      margin: 15px 0;
-
-      @include mobile {
-        margin: 10px 0;
-      }
-
-      a {
-        display: inline-block;
-        padding: 0 20px;
-        border-right: 1px solid $border-color;
-        color: #bcbcbd;
-
-        @include mobile {
-          border: 0;
-        }
-
-        span {
-          color: $primary-color;
-        }
-      }
-
-      &:last-child {
-        a {
-          padding-right: 0;
-          border-right: 0;
-        }
-      }
-    }
-  }
-}
 
 .navigation {
   .navbar {
