@@ -83,13 +83,13 @@ attributes = "async"
 
 ########################### default parameters #################################
 [params]
-favicon = "images/favicon.png"
-logo = "images/logo.png"
+favicon = "https://files.giaonhan.org/logo_giaonhan.org_184x184.webp"
+logo = "https://files.giaonhan.org/logo_giaonhan.org_184x184.webp"
 logo_width = "110px"
 logo_footer = "images/logo-footer.png"
 logo_footer_width = "180px"
-mail = "info@companyname.com"
-mobile = "1234565523"
+mail = "sale@giaonhan.org"
+mobile = "0815555528"
 # Meta data
 description = "this is meta description"
 author = "themefisher"
