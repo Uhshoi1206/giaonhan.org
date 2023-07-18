@@ -42,7 +42,7 @@
 				<h2 class="section-title section-title-border">{{ $service.title | markdownify }}</h2>
 			</div>
 			{{ range $index, $element:= where site.RegularPages "Section" $service.section }}
-			{{ if lt $index 4 }}
+			{{ if lt $index 3 }}
 			{{ .Render "service" }}
 			{{ end }}
 			{{ end }}
