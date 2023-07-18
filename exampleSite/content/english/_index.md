@@ -10,10 +10,10 @@ slider:
     title : VẬN TẢI ĐƯỜNG BIỂN
     content : Chúng tôi ở đây để giúp bạn vận chuyển hàng hóa bằng đường biển đi khắp thế giới một cách dễ dàng. Tối ưu hóa quá trình vận chuyển bằng đường biển của bạn bằng cách tiếp cận thêm nguồn lực và mức giá cạnh tranh thông qua các liên minh vận tải biển lớn của chúng tôi.
     pagination_icon : ti-comments # themify icon pack : https://themify.me/themify-icons
-    pagination_name : Consultation
+    pagination_name : Vận tải đường biển
     button:
       enable : true
-      label: More details
+      label: Xem ngay
       link : "about/"
       
   # slider item loop
