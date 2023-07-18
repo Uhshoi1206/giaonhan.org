@@ -4,10 +4,10 @@ slider:
   enable : true
   slider_item:
   # slider item loop
-  - bg_image : images/banner/banner-1.jpg
+  - bg_image : https://files.giaonhan.org/giaonhan.org_ocean-freight_banner_slider.webp
     animation_from : left
-    subtitle : We are here to
-    title : Planning Business
+    subtitle : 
+    title : VẬN TẢI ĐƯỜNG BIỂN
     content : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor <br> incididunt ut labore et dolore magna aliqua.
     pagination_icon : ti-comments # themify icon pack : https://themify.me/themify-icons
     pagination_name : Consultation
