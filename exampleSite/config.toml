@@ -228,7 +228,7 @@ weight = 4
 languageName = "Fr"
 languageCode = "fr-fr"
 contentDir = "content/french"
-weight = 1
+weight = 2
 home = "Accueil"
 # footer content
 footer_content = "Lorem ipsum dolor amet consectetur adipisicing elit sed eiusm tempor incididunt labore dolore magna aliqua enim."
