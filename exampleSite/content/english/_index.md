@@ -9,7 +9,7 @@ slider:
     subtitle : 
     title : VẬN TẢI ĐƯỜNG BIỂN
     content : Chúng tôi ở đây để giúp bạn vận chuyển hàng hóa bằng đường biển đi khắp thế giới một cách dễ dàng. Tối ưu hóa quá trình vận chuyển bằng đường biển của bạn bằng cách tiếp cận thêm nguồn lực và mức giá cạnh tranh thông qua các liên minh vận tải biển lớn của chúng tôi.
-    pagination_icon : ti-comments # themify icon pack : https://themify.me/themify-icons
+    pagination_icon : ti-anchor # themify icon pack : https://themify.me/themify-icons
     pagination_name : Vận tải đường biển
     button:
       enable : true
@@ -22,11 +22,11 @@ slider:
     subtitle : Get your
     title : Business Consultant
     content : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor <br> incididunt ut labore et dolore magna aliqua.
-    pagination_icon : ti-bar-chart # themify icon pack : https://themify.me/themify-icons
-    pagination_name : Marketing
+    pagination_icon : ti-truck # themify icon pack : https://themify.me/themify-icons
+    pagination_name : Vận tải đường bộ
     button:
       enable : true
-      label: More details
+      label: Xem ngay
       link : "about/"
       
   # slider item loop
@@ -35,11 +35,11 @@ slider:
     subtitle : Start your
     title : Future Plan
     content : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor <br> incididunt ut labore et dolore magna aliqua.
-    pagination_icon : ti-money # themify icon pack : https://themify.me/themify-icons
-    pagination_name : Finance
+    pagination_icon : ti-direction-alt # themify icon pack : https://themify.me/themify-icons
+    pagination_name : Vận tải đường sắt
     button:
       enable : true
-      label: More details
+      label: Xem ngay
       link : "about/"
       
   # slider item loop
@@ -48,11 +48,11 @@ slider:
     subtitle : We are always
     title : Be Inspired By Best
     content : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor <br> incididunt ut labore et dolore magna aliqua.
-    pagination_icon : ti-package # themify icon pack : https://themify.me/themify-icons
-    pagination_name : Human Resources
+    pagination_icon : ti-rocket # themify icon pack : https://themify.me/themify-icons
+    pagination_name : Vận tải đường hàng không
     button:
       enable : true
-      label: More details
+      label: Xem ngay
       link : "about/"
 
 ########################################## Service ####################################
