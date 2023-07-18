@@ -1,7 +1,7 @@
 ######################### default configuration ###############################
 baseURL = "https://demo.gethugothemes.com/biztrox/site/"
-title = "Biztrox"
-theme = "biztrox-hugo"
+title = "giaonhan.org"
+theme = "giaonhan.org"
 # post pagination
 paginate = "6"
 # post excerpt
@@ -11,7 +11,7 @@ googleAnalytics = "" # example : UA-123-45
 # disqus short name
 disqusShortname = "themefisher-template" # we use disqus to show comments in blog posts . To install disqus please follow this tutorial https://portfolio.peter-baumgartner.net/2017/09/10/how-to-install-disqus-on-hugo/  . 
 # disable language
-disableLanguages = ["en"] # disable language from here
+disableLanguages = ["fr"] # disable language from here
 
 ############################# Outputs ##############################
 [outputs]
@@ -87,12 +87,12 @@ favicon = "https://files.giaonhan.org/logo_giaonhan.org_184x184.webp"
 logo = "https://files.giaonhan.org/logo_giaonhan.org_184x184.webp"
 logo_width = "110px"
 logo_footer = "https://files.giaonhan.org/logo_giaonhan.org_184x184.webp"
-logo_footer_width = "180px"
+logo_footer_width = "110px"
 mail = "sale@giaonhan.org"
 mobile = "0815555528"
 # Meta data
 description = "this is meta description"
-author = "themefisher"
+author = "giaonhan.org"
 # contact form
 contact_form_action = "#" # contact form works with https://formspree.io or https://formsubmit.co
 # custom script
@@ -112,8 +112,8 @@ preloader = "images/preloader.gif"
 [params.subscription]
 enable = true
 # subscribe
-title = "Subscribe Us"
-content = "Lorem ipsum dolor sit amet, consect etur adipisicing. elit sed do eiusmod."
+title = "Đăng ký nhận tin"
+content = "Để lại email để nhận cập nhật kiến thức, kinh nghiệm về Logistics, Xuất nhập khẩu và Thủ tục hải quan... mới nhất."
 # mailchimp subsciption
 mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
 mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074"                                                           # replace this code with yours
@@ -150,29 +150,29 @@ link = "#"
 languageName = "En"
 languageCode = "en-us"
 contentDir = "content/english"
-weight = 2
+weight = 1
 home = "Home"
 # footer content
-footer_content = "Lorem ipsum dolor amet consectetur adipisicing elit sed eiusm tempor incididunt labore dolore magna aliqua enim."
+footer_content = "Đơn vị hàng đầu trong lĩnh vực giao nhận vận chuyển, Logistics, Xuất nhập khẩu, Thủ tục hải quan."
 # copyright
-copyright = "Copyright &copy; 2019 a hugo theme by [themefisher.com](https://themefisher.com)"
+copyright = "Bản quyền &copy; 2023. [giaonhan.org](https://giaonhan.org) bảo lưu mọi quyền"
 
 
 ###################### English navigation ####################
 
 # main menu
 [[Languages.en.menu.main]]
-name = "Home"
+name = "Trang chủ"
 url = ""
 weight = 1
 
 [[Languages.en.menu.main]]
-name = "About"
+name = "Về chúng tôi"
 url = "about/"
 weight = 2
 
 [[Languages.en.menu.main]]
-name = "Service"
+name = "Dịch vụ"
 url = "service/"
 weight = 3
 
@@ -182,17 +182,12 @@ url = "blog/"
 weight = 4
 
 [[Languages.en.menu.main]]
-name = "Team"
-url = "team/"
-weight = 5
-
-[[Languages.en.menu.main]]
-name = "Contact"
+name = "Liên hệ"
 url = "contact/"
-weight = 7
+weight = 6
 
 [[Languages.en.menu.main]]
-weight = 8
+weight = 7
 name = "Pages"
 hasChildren = true
 
