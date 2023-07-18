@@ -14,7 +14,7 @@ slider:
     button:
       enable : true
       label: Xem ngay
-      link : "about/"
+      link : "Van-tai-duong-bien/"
       
   # slider item loop
   - bg_image : images/banner/banner-2.jpg
