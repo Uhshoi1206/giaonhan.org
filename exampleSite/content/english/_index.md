@@ -27,7 +27,7 @@ slider:
     button:
       enable : true
       label: Xem ngay
-      link : "about/"
+      link : "service/van-tai-duong-bo/"
       
   # slider item loop
   - bg_image : images/banner/banner-3.jpg
@@ -40,7 +40,7 @@ slider:
     button:
       enable : true
       label: Xem ngay
-      link : "about/"
+      link : "service/van-tai-duong-sat/"
       
   # slider item loop
   - bg_image : images/banner/banner-4.jpg
@@ -49,11 +49,11 @@ slider:
     title : Be Inspired By Best
     content : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor <br> incididunt ut labore et dolore magna aliqua.
     pagination_icon : ti-rocket # themify icon pack : https://themify.me/themify-icons
-    pagination_name : Vận tải đường hàng không
+    pagination_name : Vận tải hàng không
     button:
       enable : true
       label: Xem ngay
-      link : "about/"
+      link : "service/van-tai-hang-khong/"
 
 ########################################## Service ####################################
 service:
