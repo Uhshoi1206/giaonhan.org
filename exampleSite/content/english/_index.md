@@ -58,8 +58,8 @@ slider:
 ########################################## Service ####################################
 service:
   enable : true
-  title: "Service We Provide"
-  subtitle: "Best Service"
+  title: "DỊCH VỤ LOGISTICS"
+  subtitle: "Dịch vụ tốt nhất"
   section: "service" # showing items from service section
   # service item comes from "content/service" folder
 
