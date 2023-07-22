@@ -2,8 +2,8 @@
 title: "VẬN TẢI HÀNG KHÔNG"
 date: 2018-09-29T11:54:02+06:00
 description : "This is meta description"
-image: images/service/service-3.jpg
-bg_image: images/background/page-title.jpg
+image: https://files.giaonhan.org/giaonhan.org_air-freight_thumbnail.webp
+bg_image: https://files.giaonhan.org/giaonhan.org_air-freight_header_img.webp
 icon: ti-rocket
 brochure: '#'
 type : service
