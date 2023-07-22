@@ -19,9 +19,9 @@ slider:
   # slider item loop
   - bg_image : images/banner/banner-2.jpg
     animation_from : up
-    subtitle : Get your
-    title : Business Consultant
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor <br> incididunt ut labore et dolore magna aliqua.
+    subtitle : 
+    title : VẬN TẢI ĐƯỜNG BỘ
+    content : Với nhiều năm kinh nghiệm, chúng tôi sẵn sàng cung cấp cho khách hàng các dịch vụ vận chuyển bằng đường bộ theo yêu cầu an toàn, hiệu quả và nhanh chóng...
     pagination_icon : ti-truck # themify icon pack : https://themify.me/themify-icons
     pagination_name : Vận tải đường bộ
     button:
