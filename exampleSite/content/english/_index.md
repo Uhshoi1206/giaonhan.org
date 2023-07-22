@@ -17,7 +17,7 @@ slider:
       link : "service/van-tai-duong-bien/"
       
   # slider item loop
-  - bg_image : images/banner/banner-2.jpg
+  - bg_image : https://files.giaonhan.org/giaonhan.org_road-transport_banner_slider.webp
     animation_from : up
     subtitle : 
     title : VẬN TẢI ĐƯỜNG BỘ
