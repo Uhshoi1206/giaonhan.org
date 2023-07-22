@@ -43,11 +43,10 @@ slider:
       link : "service/van-tai-duong-sat/"
       
   # slider item loop
-  - bg_image : images/banner/banner-4.jpg
-    animation_from : right
-    subtitle : We are always
-    title : Be Inspired By Best
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor <br> incididunt ut labore et dolore magna aliqua.
+  - bg_image : https://files.giaonhan.org/giaonhan.org_air-freight_banner_slider.webp
+    subtitle : 
+    title : VẬN TẢI HÀNG KHÔNG
+    content : Vận chuyển hàng hóa bằng đường hàng không là phương tiện vận chuyển hàng hóa mới nhất và đã tạo ra bước tiến vượt bậc cho lĩnh vực hậu cần. Ngày nay, nó đã trở thành một trong những phương tiện vận chuyển hàng hóa phổ biến nhất cho mục đích thương mại.
     pagination_icon : ti-rocket # themify icon pack : https://themify.me/themify-icons
     pagination_name : Vận tải hàng không
     button:
