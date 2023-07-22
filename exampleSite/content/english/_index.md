@@ -30,11 +30,11 @@ slider:
       link : "service/van-tai-duong-bo/"
       
   # slider item loop
-  - bg_image : images/banner/banner-3.jpg
+  - bg_image : https://files.giaonhan.org/giaonhan.org_railway-transport_banner_slider.webp
     animation_from : down
-    subtitle : Start your
-    title : Future Plan
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor <br> incididunt ut labore et dolore magna aliqua.
+    subtitle : 
+    title : VẬN TẢI ĐƯỜNG SẮT
+    content : Vận tải đường sắt là một cách hiệu quả và tiết kiệm chi phí để vận chuyển hàng hóa cho doanh nghiệp của bạn
     pagination_icon : ti-direction-alt # themify icon pack : https://themify.me/themify-icons
     pagination_name : Vận tải đường sắt
     button:
