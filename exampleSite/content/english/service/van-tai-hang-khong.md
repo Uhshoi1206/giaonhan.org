@@ -12,7 +12,7 @@ type : service
 ### Vận tải hàng không
 
 
->là phương thức vận chuyển được các doanh nghiệp lựa chọn hàng đầu.
+>là phương thức vận chuyển được các doanh nghiệp lựa chọn hàng đầu để giao nhận vận chuyển hàng hóa xuyên biên giới.
 
 1. Business Services
 2. Audit & Assurance
