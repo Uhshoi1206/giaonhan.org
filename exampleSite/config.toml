@@ -20,6 +20,11 @@ home = ["HTML", "RSS"]
 [markup.goldmark.renderer]
 unsafe = true
 
+[markup]
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 5
+    ordered = false
 ############################# Plugins ##############################
 
 # CSS Plugins
