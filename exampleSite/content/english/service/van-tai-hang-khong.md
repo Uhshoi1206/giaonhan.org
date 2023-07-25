@@ -23,7 +23,8 @@ Kể từ khi con người bắt đầu tham gia vào các hoạt động thươ
 ## I. Giới thiệu về dịch vụ vận chuyển bằng đường hàng không
 
 ### 1. Lịch sử phát triển của ngành vận chuyển đường hàng không
-{{< img src="https://files.giaonhan.org/giaonhan.org_Air-Cargo-History.webp" alt="History of Air Cargo" >}}
+
+![History of Air Cargo](https://files.giaonhan.org/giaonhan.org_Air-Cargo-History.webp)
 
 Ngành vận chuyển hàng không đã trải qua một hành trình phát triển dài và đầy thử thách. Từ khi các chuyến bay đầu tiên được thực hiện vào đầu thế kỷ XX, đường hàng không đã trở thành một phương tiện vận chuyển hàng hoá quan trọng và hiệu quả. Trong thập kỷ 1920, các chuyến bay hàng không bắt đầu được thực hiện để vận chuyển thư, sau đó là hàng hóa và người. Vào cuối những năm 1940, các chuyến bay hàng không được sử dụng rộng rãi để vận chuyển hàng hóa quân sự, đặc biệt là trong Chiến tranh thế giới II. Từ đó, ngành vận chuyển hàng không đã trở thành một phần không thể thiếu trong ngành Logistics và phát triển với tốc độ chóng mặt.
 
