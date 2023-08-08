@@ -2,8 +2,8 @@
 title: "VẬN TẢI ĐƯỜNG BIỂN"
 date: 2018-09-29T11:54:02+06:00
 description : "This is meta description"
-image: https://files.giaonhan.org/giaonhan.org_ocean-freight_thumbnail.webp
-bg_image: https://files.giaonhan.org/giaonhan.org_ocean-freight_header_img.webp
+image: https://files.giaonhan.org/giaonhan.org_ocean-freight_header_img.webp
+bg_image: https://files.giaonhan.org/giaonhan.org_ocean-freight_thumbnail.webp
 icon: ti-anchor
 brochure: '#'
 type : service
