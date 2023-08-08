@@ -668,3 +668,13 @@ a.text-primary:hover{
   list-style-type: none;
   padding-left: 1em;
 }
+
+/* Responsive image from image.html shortcode */
+img {
+	display: block;
+	margin: 0 auto;
+	overflow: hidden;
+	max-width: 100%;
+	height: auto;
+	word-break: break-word;
+}
