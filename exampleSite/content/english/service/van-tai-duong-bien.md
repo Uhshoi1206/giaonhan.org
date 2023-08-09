@@ -1,7 +1,7 @@
 ---
 title: "VẬN TẢI ĐƯỜNG BIỂN"
 date: 2018-09-29T11:54:02+06:00
-description : "Phương thức vận chuyển bằng đường biển"
+description : "Phương thức giao nhận vận chuyển đường biển"
 image: https://files.giaonhan.org/giaonhan.org_ocean-freight_header_img.webp
 bg_image: https://files.giaonhan.org/giaonhan.org_ocean-freight_thumbnail.webp
 icon: ti-anchor
