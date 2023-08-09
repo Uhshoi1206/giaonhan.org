@@ -9,7 +9,7 @@ brochure: '#'
 type : service
 ---
 
->Vận tải đường biển là giải pháp tiết kiệm chi phí để vận chuyển hàng hóa xuyên biên giới, từ lục địa này sang lục địa khác.
+>Vận tải đường biển cho phép bạn vận chuyển hàng quá khổ, hàng siêu trường siêu trọng, hàng nặng...và là giải pháp tiết kiệm chi phí để vận chuyển hàng hóa xuyên biên giới, từ lục địa này sang lục địa khác.
 
 1. Business Services
 2. Audit & Assurance
