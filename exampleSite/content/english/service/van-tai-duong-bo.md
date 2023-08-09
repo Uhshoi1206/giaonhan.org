@@ -9,10 +9,7 @@ brochure: '#'
 type : service
 ---
 
-### Marketing Oriented To The Targated Customers
-
-
->Excepteur sint occaecat cupidatat non proident sunt culpa officia deserunt mollit anim id est laborum.Sed ut perspiciatis unde omnis.
+>Vận tải đường bộ là phương thức giao nhận vận chuyển hàng hóa linh hoạt, hiệu quả. Mạng lưới vận chuyển hàng hóa đường bộ chuyên dụng của chúng tôi sẽ cung cấp các dịch vụ vận chuyển nhanh chóng để nâng cao hiệu quả chuỗi cung ứng của bạn.
 
 1. Business Services
 2. Audit & Assurance
