@@ -1,5 +1,5 @@
 ######################### default configuration ###############################
-baseURL = "https://demo.gethugothemes.com/biztrox/site/"
+baseURL = "https://giaonhan.org/"
 title = "giaonhan.org"
 theme = "giaonhan.org"
 # post pagination
@@ -11,7 +11,7 @@ googleAnalytics = "" # example : UA-123-45
 # disqus short name
 disqusShortname = "themefisher-template" # we use disqus to show comments in blog posts . To install disqus please follow this tutorial https://portfolio.peter-baumgartner.net/2017/09/10/how-to-install-disqus-on-hugo/  . 
 # disable language
-disableLanguages = ["fr"] # disable language from here
+disableLanguages = [] # disable language from here
 
 ############################# Outputs ##############################
 [outputs]
