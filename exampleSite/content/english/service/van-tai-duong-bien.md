@@ -11,9 +11,11 @@ type : service
 
 >Vận tải đường biển cho phép bạn vận chuyển hàng quá khổ, hàng siêu trường siêu trọng, hàng nặng...và là giải pháp tiết kiệm chi phí để vận chuyển hàng hóa xuyên biên giới, từ lục địa này sang lục địa khác.
 
-1. Business Services
-2. Audit & Assurance
-3. IT Control Solutions
+1. Chi phí thấp
+2. Khả năng vận chuyển lớn
+3. Linh hoạt
+4. An toàn
+5. Bảo vệ môi trường
 
 ### Marketing Oriented To The Targated Customers
 
