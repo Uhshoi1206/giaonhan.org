@@ -9,8 +9,7 @@ brochure: '#'
 type : service
 ---
 
->Vận tải đường sắt là một lựa chọn tốt khi vận chuyển khối lượng hàng hóa lớn trên một quãng đường dài, cả trong nước và xuyên biên giới
->Với chi phí nhiên liệu thấp, nó là một giải pháp thay thế hiệu quả về chi phí so với các phương thức vận tải khác.
+>Vận tải đường sắt là một lựa chọn tốt khi vận chuyển khối lượng hàng hóa lớn trên một quãng đường dài, cả trong nước và xuyên biên giới...Với chi phí nhiên liệu thấp, nó là một giải pháp thay thế hiệu quả về chi phí so với các phương thức vận tải khác.
 
 1. Khả năng chuyên chở lớn
 2. Hạn chế ảnh hưởng bởi ách tắc giao thông
