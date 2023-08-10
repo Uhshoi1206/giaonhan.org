@@ -70,9 +70,9 @@ about:
   content : "giaonhan.org là đơn vị hàng đầu trong lĩnh vực giao nhận vận chuyển, Logistics, xuất nhập khẩu, thủ tục hải quan..."
   # bullet point
   bullet_point:
-  - "Business Services"
-  - "Audit & Assurance"
-  - "IT Control Solutions"
+  - "Giao nhận vận chuyển đường biển"
+  - "Giao nhận vận chuyển đường bộ"
+  - "Giao nhận vận chuyển đường sắt"
   - "Business Services"
   - "Audit & Assurance"
   - "IT Control Solutions"
