@@ -9,7 +9,7 @@ brochure: '#'
 type : service
 ---
 
->Vận tải đường bộ là phương thức giao nhận vận chuyển hàng hóa linh hoạt, hiệu quả. Mạng lưới vận chuyển hàng hóa đường bộ chuyên dụng của chúng tôi sẽ cung cấp các dịch vụ vận chuyển nhanh chóng để nâng cao hiệu quả chuỗi cung ứng của bạn.
+>Vận tải đường bộ là phương thức giao nhận vận chuyển hàng hóa linh hoạt, hiệu quả...Mạng lưới vận chuyển hàng hóa đường bộ chuyên dụng của chúng tôi sẽ cung cấp các dịch vụ vận chuyển nhanh chóng để nâng cao hiệu quả chuỗi cung ứng của bạn.
 
 1. Linh hoạt về lịch trình và trọng tải, tuyến đường vận chuyển
 2. Tốc độ nhanh
