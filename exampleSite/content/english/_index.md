@@ -73,12 +73,12 @@ about:
   - "Giao nhận vận chuyển đường biển"
   - "Giao nhận vận chuyển đường bộ"
   - "Giao nhận vận chuyển đường sắt"
-  - "Business Services"
-  - "Audit & Assurance"
-  - "IT Control Solutions"
+  - "Đội ngũ chuyên gia giàu kinh nghiệm"
+  - "Hệ thống mạng lưới rộng khắp"
+  - "Dịch vụ khách hàng tốt nhất"
   button:
     enable : true
-    label : "Explore More"
+    label : "Tìm hiểu thêm"
     link : "about/"
 
 ##################################### Skill ##############################################
