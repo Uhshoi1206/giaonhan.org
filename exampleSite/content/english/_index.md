@@ -66,7 +66,7 @@ service:
 about:
   enable : true
   bg_image : "images/background/about-bg.jpg"
-  title : "Chúng tôi là ai?"
+  title : "CHÚNG TÔI LÀ AI?"
   content : "Excepteur sint occaecat cupidatat non proident sunt culpa qui officia deserunt mollit anim id est laborum."
   # bullet point
   bullet_point:
