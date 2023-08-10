@@ -67,7 +67,7 @@ about:
   enable : true
   bg_image : "images/background/about-bg.jpg"
   title : "CHÚNG TÔI LÀ AI?"
-  content : "Excepteur sint occaecat cupidatat non proident sunt culpa qui officia deserunt mollit anim id est laborum."
+  content : "giaonhan.org là đơn vị hàng đầu trong lĩnh vực giao nhận vận chuyển, Logistics, xuất nhập khẩu, thủ tục hải quan..."
   # bullet point
   bullet_point:
   - "Business Services"
