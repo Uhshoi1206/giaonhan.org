@@ -143,10 +143,10 @@ mission:
 ##################################### Promo video ####################################
 promo_video:
   enable : true
-  title : "We Are Alawys <br> Comited"
+  title : "Deliver Hard. Deliver Smart. Enjoy Life"
   bg_image : "https://files.giaonhan.org/giaonhan.org_promo-video.webp"
-  video_URL : "https://www.youtube.com/watch?v=jrkvirglgaQ"
-  video_title : "Lorem ipsum dolor <br> sit amet con."
+  video_URL : "#" # put video url at #
+  video_title : "Khám phá thê vềm chúng tôi."
 
 ##################################### call to action #################################
 testimonial:
