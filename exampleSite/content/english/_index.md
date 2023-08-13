@@ -171,10 +171,10 @@ testimonial:
 call_to_action:
   enable : true
   bg_image : "https://files.giaonhan.org/giaonhan.org_cta.webp"
-  title : "Biztrox give the smart solution for your business"
+  title : "Hãy trao niềm tin để chúng tôi giao nhận vận chuyển lô hàng của bạn và nhận lại sự hài lòng tuyệt đối"
   button:
     enable : true
-    label : "get a quote"
+    label : "Yêu cầu báo giá"
     link : "contact/"
       
 ########################################## blog ####################################
