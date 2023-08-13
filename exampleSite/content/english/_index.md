@@ -170,7 +170,7 @@ testimonial:
 ##################################### call to action #################################
 call_to_action:
   enable : true
-  bg_image : "images/background/cta.jpg"
+  bg_image : "https://files.giaonhan.org/giaonhan.org_cta.webp"
   title : "Biztrox give the smart solution for your business"
   button:
     enable : true
