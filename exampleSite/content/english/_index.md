@@ -151,8 +151,8 @@ promo_video:
 ##################################### call to action #################################
 testimonial:
   enable : true
-  subtitle : Clients
-  title : What client Say
+  subtitle : Khách hàng tiêu biểu
+  title : Hãy nghe khách hàng nói về chúng tôi
   image : images/client.png
   testimonial_item :
   - name : Julia Robertson
