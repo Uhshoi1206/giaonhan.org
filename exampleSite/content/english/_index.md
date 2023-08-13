@@ -103,16 +103,16 @@ skill:
 
   # progressbar
   progressbar : 
-  - title : Branding
+  - title : Giao nhận vận chuyển đường sắt
     progress : 85%
     
-  - title : Consulting
-    progress : 90%
+  - title : Giao nhận vận chuyển đường biển
+    progress : 95%
     
-  - title : Business
+  - title : Giao nhận vận chuyển đường hàng không
     progress : 75%
     
-  - title : Promotion
+  - title : Giao nhận vận chuyển đường bộ
     progress : 90%
       
 ########################################## project ####################################
