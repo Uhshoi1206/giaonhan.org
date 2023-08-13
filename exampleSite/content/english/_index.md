@@ -146,7 +146,7 @@ promo_video:
   title : "Deliver Hard. Deliver Smart. Enjoy Life"
   bg_image : "https://files.giaonhan.org/giaonhan.org_promo-video.webp"
   video_URL : "#" # put video url at #
-  video_title : "Khám phá thê vềm chúng tôi."
+  video_title : "Khám phá thêm về chúng tôi."
 
 ##################################### call to action #################################
 testimonial:
