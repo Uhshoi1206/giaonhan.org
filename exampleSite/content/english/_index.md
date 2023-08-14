@@ -135,7 +135,7 @@ mission:
     description : Duis aute irure dolor in reprehenderit voluptate velit esse cillum dolore fugiat nulla pariatur.Excepteur sint ocaecat cupidatat non proident sunt culpa qui officia deserunt mollit anim id est laborum.
     
   - title : Tầm nhìn của Công ty chúng tôi
-    description : Duis aute irure dolor in reprehenderit voluptate velit esse cillum dolore fugiat nulla pariatur.Excepteur sint ocaecat cupidatat non proident sunt culpa qui officia deserunt mollit anim id est laborum.
+    description : Chúng tôi mong muốn trở thành đối tác thân thiết và tin cậy của các công ty, giúp họ có được lợi thế cạnh tranh bền vững, thông qua các giải pháp giao nhận vận chuyển để đưa sản phẩm của họ ra thị trường một cách nhanh chóng, hiệu quả và an toàn.
     
   - title : Mục tiêu của Công ty chúng tôi
     description : Duis aute irure dolor in reprehenderit voluptate velit esse cillum dolore fugiat nulla pariatur.Excepteur sint ocaecat cupidatat non proident sunt culpa qui officia deserunt mollit anim id est laborum.
