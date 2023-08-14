@@ -128,7 +128,7 @@ mission:
   enable : true
   subtitle : Mục tiêu của chúng tôi
   title : Sứ mệnh Công ty
-  content : Lorem ipsum dolor sit amet consectetur adipisicing elit sed eiusmod tempor didunt laboris nisi ut aliquip ex ea commodo consequat.
+  content : Giá trị cốt lõi của chúng tôi là những gì làm cho chúng tôi trở nên độc đáo, thúc đẩy văn hóa của chúng tôi và tạo ra sự khác biệt trong cách chúng tôi kinh doanh và phục vụ khách hàng của mình.
   image : "https://files.giaonhan.org/giaonhan.org_vision-mission_goal_img.webp"
   accordion:
   - title : Sứ mệnh của Công ty chúng tôi
