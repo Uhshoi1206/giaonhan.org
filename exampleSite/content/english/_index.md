@@ -180,8 +180,8 @@ call_to_action:
 ########################################## blog ####################################
 blog:
   enable : true
-  title: "Company News"
-  subtitle: "Latest News"
+  title: "mới nhất"
+  subtitle: "Tin tức"
   section: "blog"
   # blog item comes from "content/blog" folder
   
