@@ -129,7 +129,7 @@ mission:
   subtitle : Mục tiêu của chúng tôi
   title : Sứ mệnh Công ty
   content : Lorem ipsum dolor sit amet consectetur adipisicing elit sed eiusmod tempor didunt laboris nisi ut aliquip ex ea commodo consequat.
-  image : images/chart.png
+  image : "https://files.giaonhan.org/giaonhan.org_vision-mission_goal_img.webp"
   accordion:
   - title : Sứ mệnh của Công ty chúng tôi
     description : Trở thành công ty giao nhận vận chuyển được ưa chuộng hàng đầu – áp dụng kinh nghiệm chuyên môn, chất lượng dịch vụ và đổi mới để tạo ra sự tăng trưởng bền vững cho doanh nghiệp và xã hội.
