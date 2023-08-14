@@ -86,12 +86,7 @@ skill:
   enable : true
   subtitle : Thế mạnh của chúng tôi
   title : Tại sao bạn chọn chúng tôi
-  content: Khi sử dụng dịch vụ giao nhận vận chuyển của giaonhan.org, bạn sẽ tận hưởng những lợi ích vượt trội.<br>
-Vận tải đường biển của chúng tôi đảm bảo khả năng vận chuyển hàng lớn, đáng tin cậy và tiết kiệm chi phí.<br>
-Vận tải đường bộ của chúng tôi mang lại sự linh hoạt và tiện lợi, với đội ngũ lái xe chuyên nghiệp và xe tải hiện đại.<br>
-Vận tải đường sắt của chúng tôi đảm bảo tốc độ và hiệu quả, sử dụng các tuyến đường sắt quan trọng.<br>
-Dịch vụ vận tải đường hàng không của chúng tôi đáp ứng nhanh chóng và đáng tin cậy cho việc giao nhận hàng hóa quốc tế.<br>
-Với chất lượng dịch vụ tốt và sự chuyên nghiệp, giaonhan.org là đối tác đáng tin cậy cho nhu cầu vận chuyển hàng hóa của bạn.
+  content: Khi sử dụng dịch vụ giao nhận vận chuyển của giaonhan.org, bạn sẽ tận hưởng những lợi ích vượt trội.<br> Vận tải đường biển của chúng tôi đảm bảo khả năng vận chuyển hàng lớn, đáng tin cậy và tiết kiệm chi phí.<br> Vận tải đường bộ của chúng tôi mang lại sự linh hoạt và tiện lợi, với đội ngũ lái xe chuyên nghiệp và xe tải hiện đại.<br> Vận tải đường sắt của chúng tôi đảm bảo tốc độ và hiệu quả, sử dụng các tuyến đường sắt quan trọng.<br> Dịch vụ vận tải đường hàng không của chúng tôi đáp ứng nhanh chóng và đáng tin cậy cho việc giao nhận hàng hóa quốc tế.<br> Với chất lượng dịch vụ tốt và sự chuyên nghiệp, giaonhan.org là đối tác đáng tin cậy cho nhu cầu vận chuyển hàng hóa của bạn.
   # funfacts
   funfacts :
   - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
