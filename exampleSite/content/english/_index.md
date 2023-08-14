@@ -132,7 +132,7 @@ mission:
   image : images/chart.png
   accordion:
   - title : Sứ mệnh của Công ty chúng tôi
-    description : Duis aute irure dolor in reprehenderit voluptate velit esse cillum dolore fugiat nulla pariatur.Excepteur sint ocaecat cupidatat non proident sunt culpa qui officia deserunt mollit anim id est laborum.
+    description : Trở thành công ty giao nhận vận chuyển được ưa chuộng hàng đầu – áp dụng kinh nghiệm chuyên môn, chất lượng dịch vụ và đổi mới để tạo ra sự tăng trưởng bền vững cho doanh nghiệp và xã hội.
     
   - title : Tầm nhìn của Công ty chúng tôi
     description : Chúng tôi mong muốn trở thành đối tác thân thiết và tin cậy của các công ty, giúp họ có được lợi thế cạnh tranh bền vững, thông qua các giải pháp giao nhận vận chuyển để đưa sản phẩm của họ ra thị trường một cách nhanh chóng, hiệu quả và an toàn.
