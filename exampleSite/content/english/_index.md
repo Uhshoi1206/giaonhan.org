@@ -119,7 +119,7 @@ skill:
 project:
   enable : true
   title: "Những dự án gần đây"
-  subtitle: "Công việc chúng tôi đã thực hiện"
+  subtitle: "chúng tôi đã thực hiện"
   section: "project" # showing items from project section
   # project item comes from "content/project" folder
 
