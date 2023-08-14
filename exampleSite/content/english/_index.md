@@ -86,7 +86,7 @@ skill:
   enable : true
   subtitle : Thế mạnh của chúng tôi
   title : Tại sao bạn chọn chúng tôi
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed eiusmod tempor incididunt laboris nisi ut aliquip ex ea commodo consequat. <br><br> Duis aute irure dolor in reprehenderit voluptate velit esse cillum dolore fugiat nulla pariatur. Excepteur sint ocaecat cupidatat non proident sunt culpa qui officia deserunt mollit anim id est laborum. sed perspiciatis unde omnisiste natus error sit voluptatem accusantium.doloremque ladantium totam rem aperieaque ipsa quae ab illo inventore.veritatis. et quasi architecto beatae vitae dicta sunt explicabo.
+  content: Khi sử dụng dịch vụ giao nhận vận chuyển của giaonhan.org, bạn sẽ tận hưởng những lợi ích vượt trội. Vận tải đường biển của chúng tôi đảm bảo khả năng vận chuyển hàng lớn, đáng tin cậy và tiết kiệm chi phí. Vận tải đường bộ của chúng tôi mang lại sự linh hoạt và tiện lợi, với đội ngũ lái xe chuyên nghiệp và xe tải hiện đại. Vận tải đường sắt của chúng tôi đảm bảo tốc độ và hiệu quả, sử dụng các tuyến đường sắt quan trọng. Dịch vụ vận tải đường hàng không của chúng tôi đáp ứng nhanh chóng và đáng tin cậy cho việc giao nhận hàng hóa quốc tế. Với chất lượng dịch vụ tốt và sự chuyên nghiệp, giaonhan.org là đối tác đáng tin cậy cho nhu cầu vận chuyển hàng hóa của bạn.
   # funfacts
   funfacts :
   - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
@@ -104,22 +104,22 @@ skill:
   # progressbar
   progressbar : 
   - title : Giao nhận vận chuyển đường sắt
-    progress : 85%
+    progress : 100%
     
   - title : Giao nhận vận chuyển đường biển
-    progress : 95%
+    progress : 100%
     
   - title : Giao nhận vận chuyển đường hàng không
-    progress : 75%
+    progress : 100%
     
   - title : Giao nhận vận chuyển đường bộ
-    progress : 90%
+    progress : 100%
       
 ########################################## project ####################################
 project:
   enable : true
-  title: "Latest Projects"
-  subtitle: "Our Works"
+  title: "Những dự án gần đây"
+  subtitle: "Công việc chúng tôi đã thực hiện"
   section: "project" # showing items from project section
   # project item comes from "content/project" folder
 
