@@ -21,7 +21,7 @@ overview:
     data : KCN Hòa Khánh, Đà Nẵng
 
 # type
-type : project
+type : du-an
 ---
 
 ### Apollo For Baximco Inc. Australia
