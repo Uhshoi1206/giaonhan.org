@@ -219,8 +219,8 @@ hasChildren = true
 
 [[Languages.en.menu.main]]
 parent = "Pages"
-name = "Project"
-url = "project/"
+name = "Dự án"
+url = "du-an/"
 
 [[Languages.en.menu.main]]
 parent = "Pages"
