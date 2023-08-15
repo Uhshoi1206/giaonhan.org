@@ -1,0 +1,332 @@
+######################### default configuration ###############################
+baseURL = "https://giaonhan.org/"
+title = "giaonhan.org"
+theme = "giaonhan.org"
+# post pagination
+paginate = "6"
+# post excerpt
+summaryLength = "10"
+# google analytics
+googleAnalytics = "" # example : UA-123-45
+# disqus short name
+disqusShortname = "themefisher-template" # we use disqus to show comments in blog posts . To install disqus please follow this tutorial https://portfolio.peter-baumgartner.net/2017/09/10/how-to-install-disqus-on-hugo/  . 
+# disable language
+disableLanguages = ["fr"] # disable language from here
+
+############################# Outputs ##############################
+[outputs]
+home = ["HTML", "RSS"]
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[markup]
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 5
+    ordered = false
+############################# Plugins ##############################
+
+# CSS Plugins
+[[params.plugins.css]]
+link = "https://fonts.googleapis.com/css2?family=Open+Sans&family=Poppins:wght@400;500&display=swap"
+attributes = ""
+
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+attributes = "media='screen'"
+
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+attributes = "media='screen'"
+
+[[params.plugins.css]]
+link = "plugins/magnific-popup/magnific-popup.css"
+attributes = "media='screen'"
+
+[[params.plugins.css]]
+link = "plugins/slick/slick.css"
+attributes = ""
+
+[[params.plugins.css]]
+link = "plugins/slick/slick-theme.css"
+attributes = ""
+
+[[params.plugins.css]]
+link = "plugins/themify-icons/themify-icons.css"
+attributes = ""
+
+[[params.plugins.css]]
+link = "plugins/animate/animate.css"
+attributes = ""
+
+
+# JS Plugins
+[[params.plugins.js]]
+link = "plugins/jQuery/jquery.min.js"
+attributes = ""
+
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+attributes = ""
+
+[[params.plugins.js]]
+link = "plugins/slick/slick.min.js"
+attributes = ""
+
+[[params.plugins.js]]
+link = "plugins/magnific-popup/magnific-popup.min.js"
+attributes = ""
+
+[[params.plugins.js]]
+link = "plugins/filterizr/jquery.filterizr.min.js"
+attributes = ""
+
+[[params.plugins.js]]
+link = "plugins/google-map/gmap.js"
+attributes = "async"
+
+########################### default parameters #################################
+[params]
+favicon = "https://files.giaonhan.org/logo_giaonhan.org_184x184.webp"
+logo = "https://files.giaonhan.org/logo_giaonhan.org_184x184.webp"
+logo_width = "110px"
+logo_footer = "https://files.giaonhan.org/logo_giaonhan.org_184x184.webp"
+logo_footer_width = "110px"
+mail = "sale@giaonhan.org"
+mobile = "0815555528"
+# Meta data
+description = "Always here to carrying - Deliver Hard. Deliver Smart. Enjoy Life"
+author = "giaonhan.org"
+# contact form
+contact_form_action = "#" # contact form works with https://formspree.io or https://formsubmit.co
+# custom script
+custom_script = ""
+
+# nav Button
+[params.nav_button]
+enable = true
+link = "contact"
+
+# preloader
+[params.preloader]
+enable = false
+preloader = "images/preloader.gif"
+
+# Subscription
+[params.subscription]
+enable = true
+# subscribe
+title = "Đăng ký nhận tin"
+content = "Để lại email để nhận cập nhật thông tin, kiến thức, kinh nghiệm về Logistics, Xuất nhập khẩu và Thủ tục hải quan... mới nhất."
+# mailchimp subsciption
+mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
+mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074"                                                           # replace this code with yours
+
+# google map
+[params.gmap]
+enable = true
+gmap_api = "AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU"
+map_latitude = "51.5223477"
+map_longitude = "-0.1622023"
+map_marker = "images/marker.png"
+
+
+########################### social icon #####################################
+[[params.social]]
+icon = "ti-facebook" # themify icon pack : https://themify.me/themify-icons
+link = "https://www.facebook.com/giaonhan.org"
+
+[[params.social]]
+icon = "ti-twitter-alt" # themify icon pack : https://themify.me/themify-icons
+link = "#"
+
+[[params.social]]
+icon = "ti-vimeo-alt" # themify icon pack : https://themify.me/themify-icons
+link = "#"
+
+[[params.social]]
+icon = "ti-linkedin" # themify icon pack : https://themify.me/themify-icons
+link = "#"
+
+
+################################### English language #####################################
+[Languages.en]
+languageName = "En"
+languageCode = "en-us"
+contentDir = "content/english"
+weight = 1
+home = "Home"
+# footer content
+footer_content = "Đơn vị hàng đầu trong lĩnh vực giao nhận vận chuyển, Logistics, Xuất nhập khẩu, Thủ tục hải quan."
+# copyright
+copyright = "Bản quyền &copy; 2023. [giaonhan.org](https://giaonhan.org) bảo lưu mọi quyền"
+
+
+###################### English navigation ####################
+
+# main menu
+[[Languages.en.menu.main]]
+name = "Trang chủ"
+url = ""
+weight = 1
+
+[[Languages.en.menu.main]]
+name = "Về chúng tôi"
+url = "about/"
+weight = 2
+
+[[Languages.en.menu.main]]
+name = "Dịch vụ"
+url = "service/"
+weight = 3
+hasChildren = true
+
+[[Languages.en.menu.main]]
+parent = "Dịch vụ"
+name = "Vận tải đường biển"
+url = "service/van-tai-duong-bien/"
+
+[[Languages.en.menu.main]]
+parent = "Dịch vụ"
+name = "Vận tải đường bộ"
+url = "service/van-tai-duong-bo/"
+
+[[Languages.en.menu.main]]
+parent = "Dịch vụ"
+name = "Vận tải đường sắt"
+url = "service/van-tai-duong-sat/"
+
+[[Languages.en.menu.main]]
+parent = "Dịch vụ"
+name = "Vận tải hàng không"
+url = "service/van-tai-hang-khong/"
+
+[[Languages.en.menu.main]]
+name = "Blog"
+url = "blog/"
+weight = 4
+
+[[Languages.en.menu.main]]
+name = "Liên hệ"
+url = "contact/"
+weight = 6
+
+[[Languages.en.menu.main]]
+weight = 7
+name = "Pages"
+hasChildren = true
+
+[[Languages.en.menu.main]]
+parent = "Pages"
+name = "Project"
+url = "project/"
+
+[[Languages.en.menu.main]]
+parent = "Pages"
+name = "Pricing"
+url = "pricing/"
+
+# footer menu
+[[Languages.en.menu.footer]]
+name = "Legal"
+url = "#"
+weight = 1
+
+[[Languages.en.menu.footer]]
+name = "Sitemap"
+url = "#"
+weight = 2
+
+[[Languages.en.menu.footer]]
+name = "Privacy Policy"
+url = "#"
+weight = 3
+
+[[Languages.en.menu.footer]]
+name = "Terms & Conditions"
+url = "#"
+weight = 4
+
+
+################################ Franch language ################################
+[Languages.fr]
+languageName = "Fr"
+languageCode = "fr-fr"
+contentDir = "content/french"
+weight = 2
+home = "Accueil"
+# footer content
+footer_content = "Lorem ipsum dolor amet consectetur adipisicing elit sed eiusm tempor incididunt labore dolore magna aliqua enim."
+# copyright
+copyright = "Copyright &copy; 2019 a hugo theme by [themefisher.com](https://themefisher.com)"
+
+
+###################### French navigation ####################
+
+# main menu
+[[Languages.fr.menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[Languages.fr.menu.main]]
+name = "About"
+url = "about/"
+weight = 2
+
+[[Languages.fr.menu.main]]
+name = "Service"
+url = "service/"
+weight = 3
+
+[[Languages.fr.menu.main]]
+name = "Blog"
+url = "blog/"
+weight = 4
+
+[[Languages.fr.menu.main]]
+name = "Team"
+url = "team/"
+weight = 5
+
+[[Languages.fr.menu.main]]
+name = "Contact"
+url = "contact/"
+weight = 7
+
+[[Languages.fr.menu.main]]
+weight = 8
+name = "Pages"
+hasChildren = true
+
+[[Languages.fr.menu.main]]
+parent = "Pages"
+name = "Project"
+url = "project/"
+
+[[Languages.fr.menu.main]]
+parent = "Pages"
+name = "Pricing"
+url = "pricing/"
+
+# footer menu
+[[Languages.fr.menu.footer]]
+name = "Legal"
+url = "#/"
+weight = 1
+
+[[Languages.fr.menu.footer]]
+name = "Sitemap"
+url = "#/"
+weight = 2
+
+[[Languages.fr.menu.footer]]
+name = "Privacy Policy"
+url = "#/"
+weight = 3
+
+[[Languages.fr.menu.footer]]
+name = "Terms & Conditions"
+url = "#/"
+weight = 4
