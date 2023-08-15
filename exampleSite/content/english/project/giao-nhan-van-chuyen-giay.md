@@ -1,26 +1,24 @@
 ---
-title: "Finance Consultancy"
+title: "Vận chuyển giấy"
 date: 2018-09-24T14:48:03+06:00
-description : "This is meta description"
-bg_image: images/background/page-title.jpg
-image : images/project/project-8.jpg
-live_demo : "#"
-case_study : "#"
-category: marketing online
+description : "Dự án giao nhận vận chuyển giấy từ Phong Khê, Bắc Ninh vào KCN Hòa Khánh, Đà Nẵng"
+bg_image: https://files.giaonhan.org/giaonhan.org_page-title.webp
+image : https://files.giaonhan.org/giaonhan.org_giao-nhan-van-chuyen-giay-song.webp
+category: Giao nhận vận chuyển đường biển
 
 # overview
 overview:
-  - label : Client
-    data : Baximco Ltd.
+  - label : Khách hàng
+    data : Giấy Hà Long
     
-  - label : Category
-    data : Market Strategy
+  - label : Loại hình
+    data : Giao nhận vận chuyển đường biển
     
-  - label : Expertise
-    data : Mobile App
+  - label : Nơi đóng hàng
+    data : Phong Khê, Bắc Ninh
     
-  - label : Date
-    data : 22 nov, 2019
+  - label : Nơi trả hàng
+    data : KCN Hòa Khánh, Đà Nẵng
 
 # type
 type : project
