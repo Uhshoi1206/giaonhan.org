@@ -7,4 +7,4 @@ description : "Các dự án chúng tôi đã tham gia thực hiện"
 
 ## Các dự án chúng tôi đã thực hiện
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod <br> tempor incididunt ut labore et dolore magna aliqua.
+Dưới đây là những dự án chúng tôi đã thực hiện. Chúng tôi đã có kinh nghiệm giao nhận vận chuyển rất nhiều mặt hàng khác nhau. Vì vậy, chúng tôi có thể đảm bảo vận chuyển hàng hóa của bạn an toàn, chính xác và kịp thời!
