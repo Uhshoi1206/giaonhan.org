@@ -1,5 +1,5 @@
 ---
-title: "Vận chuyển giấy"
+title: "Giao nhận vận chuyển giấy"
 date: 2018-09-24T14:48:03+06:00
 description : "Dự án giao nhận vận chuyển giấy từ Phong Khê, Bắc Ninh vào KCN Hòa Khánh, Đà Nẵng"
 bg_image: https://files.giaonhan.org/giaonhan.org_page-title.webp
