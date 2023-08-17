@@ -57,6 +57,7 @@ Những công ty này thường có nhu cầu mua và sử dụng nhôm thỏi �
 ## Phương án giao nhận vận chuyển nhôm thỏi
 
 Khi giao nhận vận chuyển nhôm thỏi, việc đảm bảo an toàn và không bị hư hỏng trong quá trình vận chuyển là rất quan trọng. Vì vậy, các công ty sản xuất nhôm thường sử dụng các phương thức vận chuyển sau:
+
 ### 1. Giao nhận vận chuyển nhôm thỏi đường sắt
 
 Vận chuyển bằng đường sắt là một trong những phương thức phổ biến để vận chuyển nhôm thỏi. Điều này do việc vận chuyển bằng đường sắt có nhiều ưu điểm, bao gồm:
