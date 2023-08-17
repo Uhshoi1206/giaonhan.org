@@ -27,7 +27,7 @@
 - id: overview
   translation: Overview
 - id: project_name
-  translation: Project Name
+  translation: Tên dự án
 - id: live_demo
   translation: Watch Live Demo
 - id: case_study
