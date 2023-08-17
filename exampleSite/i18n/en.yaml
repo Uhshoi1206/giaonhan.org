@@ -1,15 +1,15 @@
 - id: nav_button
   translation: get a quote
 - id: services
-  translation: Services
+  translation: Dịch vụ
 - id: quick_links
   translation: Quick Links
 - id: contact_us
-  translation: Contact Us
+  translation: Liên hệ chúng tôi
 - id: contact_form
-  translation: Contact Form
+  translation: Thông tin liên hệ
 - id: submit
-  translation: Submit
+  translation: Gửi
 - id: buy_now
   translation: Buy Now
 - id: service_brochure
@@ -21,11 +21,11 @@
 - id: contact_info
   translation: Contact Information
 - id: follow_on_social
-  translation: Follow on Social
+  translation: Theo dõi chúng tôi trên mạng xã hội
 - id: cv
   translation: Professional CV
 - id: overview
-  translation: Overview
+  translation: Tổng quan
 - id: project_name
   translation: Tên dự án
 - id: live_demo
@@ -33,14 +33,14 @@
 - id: case_study
   translation: Complete Case Study
 - id: free_consultation
-  translation: Request Free Consultation
+  translation: Yêu cầu tư vấn miễn phí
 - id: all
-  translation: All
+  translation: Tất cả
 - id: posted_by
-  translation: Posted By
+  translation: Đăng bởi
 - id: share
-  translation: Share
+  translation: Chia sẻ
 - id: call_now
-  translation: Call Us Now
+  translation: Gọi chúng tôi ngay
 - id: read_more
   translation: Xem ngay
