@@ -1,30 +1,30 @@
 ---
-title: "Finance Consultancy"
+title: "Giao nhận vận chuyển nhôm thỏi"
 date: 2018-09-24T14:48:03+06:00
-description : "This is meta description"
+description : "Dự án giao nhận vận chuyển nhôm thỏi từ Bắc Ninh vào Đồng Nai"
 bg_image: https://files.giaonhan.org/giaonhan.org_page-title.webp
-image : https://files.giaonhan.org/giaonhan.org_giao-nhan-van-chuyen-giay-song.webp
-live_demo : "#"
-case_study : "#"
-category: Financing
+image : https://files.giaonhan.org/giaonhan.org_giao-nhan-van-chuyen-nhom-thoi.webp
+category: Giao nhận vận chuyển đường sắt
 
 # overview
 overview:
-  - label : Client
-    data : Baximco Ltd.
+  - label : Khách hàng
+    data : Nhôm Thành Công
     
-  - label : Category
-    data : Market Strategy
+  - label : Loại hình
+    data : Giao nhận vận chuyển đường sắt
     
-  - label : Expertise
-    data : Mobile App
+  - label : Nơi đóng hàng
+    data : Bắc Ninh
     
-  - label : Date
-    data : 22 nov, 2019
+  - label : Nơi trả hàng
+    data : Đồng Nai
 
 # type
 type : project
 ---
+
+![Nhôm thỏi](https://files.giaonhan.org/giaonhan.org_nhom-thoi.webp)
 
 ### Apollo For Baximco Inc. Australia
 
