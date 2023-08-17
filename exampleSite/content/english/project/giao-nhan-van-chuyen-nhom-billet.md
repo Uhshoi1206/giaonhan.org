@@ -1,26 +1,24 @@
 ---
-title: "Finance Consultancy"
+title: "Giao nhận vận chuyển nhôm billet"
 date: 2018-09-24T14:48:03+06:00
-description : "This is meta description"
+description : "Dự án giao nhận vận chuyển nhôm billet từ Bắc Ninh vào Hà Tĩnh"
 bg_image: https://files.giaonhan.org/giaonhan.org_page-title.webp
-image : https://files.giaonhan.org/giaonhan.org_giao-nhan-van-chuyen-giay-song.webp
-live_demo : "#"
-case_study : "#"
-category: Financing
+image : https://files.giaonhan.org/giaonhan.org_giao-nhan-van-chuyen-nhom-billet.webp
+category: Giao nhận vận chuyển đường bộ
 
 # overview
 overview:
-  - label : Client
-    data : Baximco Ltd.
+  - label : Khách hàng
+    data : Nhôm Thành Công
     
-  - label : Category
-    data : Market Strategy
+  - label : Loại hình
+    data : Giao nhận vận chuyển đường bộ
     
-  - label : Expertise
-    data : Mobile App
+  - label : Nơi đóng hàng
+    data : Bắc Ninh
     
-  - label : Date
-    data : 22 nov, 2019
+  - label : Nơi trả hàng
+    data : Hà Tĩnh
 
 # type
 type : project
@@ -32,6 +30,8 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+![Nhôm billet](https://files.giaonhan.org/giaonhan.org_nhom-billet.webp)
 
 ###### Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
