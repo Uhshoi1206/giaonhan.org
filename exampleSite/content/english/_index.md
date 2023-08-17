@@ -120,7 +120,7 @@ project:
   enable : true
   title: "Những dự án gần đây"
   subtitle: "chúng tôi đã thực hiện"
-  section: "du-an" # showing items from project section
+  section: "project" # showing items from project section
   # project item comes from "content/project" folder
 
 ########################################### Mission ###################################
