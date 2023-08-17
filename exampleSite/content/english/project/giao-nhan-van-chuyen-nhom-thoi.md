@@ -34,10 +34,10 @@ Nhôm thỏi là một trong các loại hợp kim nhôm, có đặc tính nhẹ
 
 Tại Việt Nam, có một số công ty nhôm lớn như:
 
-Công ty TNHH Nhôm Đại Việt
-Công ty CP Nhôm Hợp Kim Bình Dương
-Công ty CP Nhôm và Hợp Kim Tân Rai
-Công ty CP Nhôm - Kẽm - Đồng Thành Đạt
+Công ty TNHH Nhôm Đại Việt<br>
+Công ty CP Nhôm Hợp Kim Bình Dương<br>
+Công ty CP Nhôm và Hợp Kim Tân Rai<br>
+Công ty CP Nhôm - Kẽm - Đồng Thành Đạt<br>
 Công ty TNHH Nhôm Nghệ An
 
 Các công ty này đều sản xuất và cung cấp nhôm thỏi cho các khách hàng trong và ngoài nước.
