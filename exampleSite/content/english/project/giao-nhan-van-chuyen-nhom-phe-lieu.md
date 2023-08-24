@@ -1,26 +1,24 @@
 ---
-title: "Finance Consultancy"
+title: "Giao nhận vận chuyển nhôm phế liệu"
 date: 2018-09-24T14:48:03+06:00
-description : "This is meta description"
+description : "Dự án giao nhận vận chuyển nhôm phế liệu từ Tiền Giang tới Bắc Ninh"
 bg_image: https://files.giaonhan.org/giaonhan.org_page-title.webp
-image : https://files.giaonhan.org/giaonhan.org_giao-nhan-van-chuyen-giay-song.webp
-live_demo : "#"
-case_study : "#"
-category: Market Strategy
+image : https://files.giaonhan.org/giaonhan.org_giao-nhan-van-chuyen-nhom-phe-lieu.webp
+category: Giao nhận vận chuyển đường biển
 
 # overview
 overview:
-  - label : Client
-    data : Baximco Ltd.
+  - label : Khách hàng
+    data : Nhôm Thành Công
     
-  - label : Category
-    data : Market Strategy
+  - label : Loại hình
+    data : Giao nhận vận chuyển đường biển
     
-  - label : Expertise
-    data : Mobile App
+  - label : Nơi đóng hàng
+    data : Tiền Giang
     
-  - label : Date
-    data : 22 nov, 2019
+  - label : Nơi trả hàng
+    data : Bắc Ninh
 
 # type
 type : project
