@@ -30,16 +30,16 @@ Nhôm phế liệu là một trong những vật liệu quan trọng trong ngàn
 
 Ngày nay, nhôm phế liệu được sử dụng rộng rãi trong nhiều lĩnh vực. Một số ứng dụng chính của nhôm phế liệu bao gồm:
 
-*Ngành công nghiệp:* Nhôm phế liệu được sử dụng trong sản xuất các sản phẩm như vỏ máy tính, vỏ điện thoại di động, vỏ laptop và nhiều sản phẩm điện tử khác.
-*Xây dựng:* Nhôm phế liệu được sử dụng trong sản xuất cửa sổ, khung cửa, tấm tôn và nhiều vật liệu xây dựng khác.
+*Ngành công nghiệp:* Nhôm phế liệu được sử dụng trong sản xuất các sản phẩm như vỏ máy tính, vỏ điện thoại di động, vỏ laptop và nhiều sản phẩm điện tử khác.<br>
+*Xây dựng:* Nhôm phế liệu được sử dụng trong sản xuất cửa sổ, khung cửa, tấm tôn và nhiều vật liệu xây dựng khác.<br>
 *Vận tải:* Nhôm phế liệu cũng được sử dụng để sản xuất các phụ kiện cho xe tải và đường sắt...
 
 ## II. Các công ty Nhôm phế liệu lớn tại Việt Nam
 
 Việt Nam có nhiều công ty thu gom và tái chế nhôm phế liệu. Dưới đây là một số công ty lớn:
 
-Hưng Yên Metal Recycling Company Limited
-Kim Ban Recycling Joint Stock Company
+Hưng Yên Metal Recycling Company Limited<br>
+Kim Ban Recycling Joint Stock Company<br>
 Phúc Thịnh Recycling Company
 
 ## III. Các ngành nghề, lĩnh vực có nhu cầu mua và sử dụng Nhôm phế liệu
@@ -48,11 +48,11 @@ Phúc Thịnh Recycling Company
 
 Các ngành nghề và lĩnh vực sau đây có nhu cầu mua và sử dụng nhôm phế liệu:
 
-- Ngành công nghiệp điện tử
-- Ngành xây dựng
-- Ngành vận tải
-- Ngành sản xuất đồ gia dụng
-- Ngành sản xuất thiết bị y tế
+- Ngành công nghiệp điện tử<br>
+- Ngành xây dựng<br>
+- Ngành vận tải<br>
+- Ngành sản xuất đồ gia dụng<br>
+- Ngành sản xuất thiết bị y tế<br>
 
 ## IV. Phương án giao nhận vận chuyển Nhôm phế liệu
 
@@ -60,21 +60,21 @@ Các ngành nghề và lĩnh vực sau đây có nhu cầu mua và sử dụng n
 
 Giao nhận vận chuyển nhôm phế liệu bằng đường sắt là một phương án khá phổ biến trong nước. Các ưu điểm của phương án này bao gồm:
 
-Chi phí thấp hơn so với các phương án khác
-An toàn hơn so với các phương án khác
+Chi phí thấp hơn so với các phương án khác<br>
+An toàn hơn so với các phương án khác<br>
 Không gây ô nhiễm môi trường
 
 Tuy nhiên, phương án này cũng có một số hạn chế:
 
-Chỉ có thể chuyển hàng hóa trong phạm vi quốc gia.
+Chỉ có thể chuyển hàng hóa trong phạm vi quốc gia.<br>
 Thời gian vận chuyển lâu hơn so với các phương án khác.
 
 ### 2. Giao nhận vận chuyển Nhôm phế liệu bằng đường biển
 
 Giao nhận vận chuyển nhôm phế liệu bằng đường biển là một phương án hiệu quả nhất để vận chuyển hàng hóa từ Việt Nam đến các nước khác trên thế giới. Các ưu điểm của phương án này bao gồm:
 
-Thời gian vận chuyển ngắn hơn so với các phương án khác
-Không giới hạn về khoảng cách và phạm vi vận chuyển
+Thời gian vận chuyển ngắn hơn so với các phương án khác<br>
+Không giới hạn về khoảng cách và phạm vi vận chuyển<br>
 Chi phí vận chuyển hợp lý hơn so với các phương án khác
 
 Tuy nhiên, cũng có một số hạn chế của phương án này:
@@ -85,8 +85,8 @@ Cần đảm bảo được đóng gói hàng hóa chặt chẽ để tránh hư
 
 Giao nhận vận chuyển nhôm phế liệu bằng xe tải đường bộ là một phương án phổ biến khi vận chuyển hàng hóa trong nước. Các ưu điểm của phương án này bao gồm:
 
-Thời gian vận chuyển nhanh hơn so với các phương án khác
-Không giới hạn về khoảng cách và phạm vi vận chuyển
+Thời gian vận chuyển nhanh hơn so với các phương án khác<br>
+Không giới hạn về khoảng cách và phạm vi vận chuyển<br>
 Có thể được sử dụng để vận chuyển hàng hóa từ cảng biển đến nơi sản xuất hoặc đến các địa điểm khác nhau trong nước
 
 Tuy nhiên, phương án này cũng có một số hạn chế:
