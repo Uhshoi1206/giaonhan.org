@@ -44,7 +44,7 @@ Phúc Thịnh Recycling Company
 
 ## III. Các ngành nghề, lĩnh vực có nhu cầu mua và sử dụng Nhôm phế liệu
 
-![Nhôm phế liệu](https://files.giaonhan.org/giaonhan.org_giao-nhan-van-chuyen-nhom-phe-lieu.webp)
+![Nhôm phế liệu](https://files.giaonhan.org/giaonhan.org_nhom-phe-lieu.webp)
 
 Các ngành nghề và lĩnh vực sau đây có nhu cầu mua và sử dụng nhôm phế liệu:
 
