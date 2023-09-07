@@ -52,8 +52,8 @@ Các công ty này không chỉ sản xuất vải cho thị trường trong nư
 
 Giao nhận vận chuyển vải bằng đường biển là một phương án tổ chức vận chuyển vải qua các tuyến đường biển. Việc sử dụng đường biển để vận chuyển vải mang lại nhiều lợi ích, bao gồm:
 
-**Sức chứa lớn:** Tàu biển có khả năng chở hàng lớn, cho phép vận chuyển vải số lượng lớn cùng một lúc.
-**Chi phí thấp:** So với các phương án khác như đường hàng không, đường bộ chi phí vận chuyển bằng đường biển thường thấp hơn, giúp giảm chi phí vận chuyển tổng thể của ngành công nghiệp may mặc.
+**Sức chứa lớn:** Tàu biển có khả năng chở hàng lớn, cho phép vận chuyển vải số lượng lớn cùng một lúc.<br>
+**Chi phí thấp:** So với các phương án khác như đường hàng không, đường bộ chi phí vận chuyển bằng đường biển thường thấp hơn, giúp giảm chi phí vận chuyển tổng thể của ngành công nghiệp may mặc.<br>
 **An toàn và ổn định:** Vận chuyển bằng đường biển ít bị ảnh hưởng bởi các yếu tố thời tiết như bão lớn hay sự cản trở giao thông.
 
 Để áp dụng phương án giao nhận vận chuyển vải bằng đường biển, các nhà máy sản xuất vải cần thiết kế đúng quy trình đóng gói hàng hóa để đảm bảo vải được bảo vệ an toàn trong quá trình vận chuyển. Các container hoặc pallet có thể được sử dụng để tăng tính tiện lợi và bảo đảm an toàn cho quá trình giao nhận vận chuyển.
@@ -62,7 +62,7 @@ Giao nhận vận chuyển vải bằng đường biển là một phương án 
 
 Giao nhận vận chuyển vải bằng đường sắt là một phương án phổ biến khác để vận chuyển vải trong nước và giữa các quốc gia láng giềng. Việc sử dụng đường sắt có các ưu điểm sau:
 
-**Tốc độ ổn định:** Đường sắt cung cấp khả năng di chuyển hàng hóa với tốc độ ổn định, không bị ảnh hưởng bởi tình trạng giao thông.
+**Tốc độ ổn định:** Đường sắt cung cấp khả năng di chuyển hàng hóa với tốc độ ổn định, không bị ảnh hưởng bởi tình trạng giao thông.<br>
 **Chi phí thấp:** So với giao nhận vận chuyển vải bằng đường hàng không, việc sử dụng đường sắt giúp giảm chi phí vận chuyển.
 
 Để áp dụng phương án giao nhận vận chuyển vải bằng đường sắt, cần có hệ thống đường ray và các địa điểm xếp dỡ hàng hóa. Việc đóng gói vải trong container hoặc pallet cũng giúp tăng tính tiện lợi trong quá trình vận chuyển.
@@ -71,7 +71,7 @@ Giao nhận vận chuyển vải bằng đường sắt là một phương án p
 
 Giao nhận vận chuyển vải bằng xe tải đường bộ là một phương án linh hoạt để vận chuyển vải trong nước và giữa các tỉnh thành. Việc sử dụng xe tải đường bộ có những ưu điểm sau:
 
-**Tính linh hoạt:** Xe tải có thể di chuyển tới các địa điểm khác nhau, giúp việc giao nhận vận chuyển vải dễ dàng và nhanh chóng.
+**Tính linh hoạt:** Xe tải có thể di chuyển tới các địa điểm khác nhau, giúp việc giao nhận vận chuyển vải dễ dàng và nhanh chóng.<br>
 **Chi phí thấp:** So với giao nhận vận chuyển vải bằng đường hàng không, việc sử dụng xe tải đường bộ giúp tiết kiệm chi phí vận chuyển.
 
 Để áp dụng phương án giao nhận vận chuyển vải bằng xe tải đường bộ, cần có hệ thống đường bộ và các trạm xếp dỡ hàng hóa. Quy trình đóng gói hàng hóa cẩn thận cũng là một yếu tố quan trọng để đảm bảo vải được bảo vệ trong quá trình vận chuyển.
@@ -80,7 +80,7 @@ Giao nhận vận chuyển vải bằng xe tải đường bộ là một phươ
 
 Giao nhận vận chuyển vải bằng đường hàng không là một phương án nhanh chóng để vận chuyển vải quốc tế. Việc sử dụng đường hàng không có những ưu điểm sau:
 
-**Tốc độ cao:** Đường hàng không mang lại tốc độ vận chuyển nhanh, giúp vải được giao nhận vận chuyển đến đích một cách nhanh chóng.
+**Tốc độ cao:** Đường hàng không mang lại tốc độ vận chuyển nhanh, giúp vải được giao nhận vận chuyển đến đích một cách nhanh chóng.<br>
 **Quy mô quốc tế:** Sử dụng đường hàng không cho phép vận chuyển vải đến nhiều quốc gia khác nhau trên toàn thế giới.
 
 Để áp dụng phương án giao nhận vận chuyển vải bằng đường hàng không, cần có các sân bay và hệ thống quản lý hàng không. Đóng gói vải phù hợp để đảm bảo an toàn trong quá trình vận chuyển là một yếu tố cần được chú trọng.
