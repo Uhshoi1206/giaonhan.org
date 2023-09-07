@@ -153,9 +153,9 @@ testimonial:
   enable : true
   subtitle : Khách hàng tiêu biểu
   title : Hãy nghe khách hàng nói về chúng tôi
-  image : images/client.png
+  image : https://files.giaonhan.org/giaonhan.org_client.webp
   testimonial_item :
-  - name : Julia Robertson
+  - name : Nguyễn Quang Tuấn
     content : Lorem ipsum dolor sit amet constur adipisicing elit sed eiusmtempor incid sed dolore magna aliqu enim minim veniam quis nostrud exercittion ullamco labo ris nisi aliquip excepteur.
     designation : Happy Clients
     
