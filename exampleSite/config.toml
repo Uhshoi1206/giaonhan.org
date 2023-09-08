@@ -212,21 +212,6 @@ name = "Liên hệ"
 url = "contact/"
 weight = 6
 
-[[Languages.en.menu.main]]
-weight = 7
-name = "Pages"
-hasChildren = true
-
-[[Languages.en.menu.main]]
-parent = "Pages"
-name = "Dự án"
-url = "project/"
-
-[[Languages.en.menu.main]]
-parent = "Pages"
-name = "Pricing"
-url = "pricing/"
-
 # footer menu
 [[Languages.en.menu.footer]]
 name = "Legal"
@@ -246,87 +231,4 @@ weight = 3
 [[Languages.en.menu.footer]]
 name = "Terms & Conditions"
 url = "#"
-weight = 4
-
-
-################################ Franch language ################################
-[Languages.fr]
-languageName = "Fr"
-languageCode = "fr-fr"
-contentDir = "content/french"
-weight = 2
-home = "Accueil"
-# footer content
-footer_content = "Lorem ipsum dolor amet consectetur adipisicing elit sed eiusm tempor incididunt labore dolore magna aliqua enim."
-# copyright
-copyright = "Copyright &copy; 2019 a hugo theme by [themefisher.com](https://themefisher.com)"
-
-
-###################### French navigation ####################
-
-# main menu
-[[Languages.fr.menu.main]]
-name = "Home"
-url = "/"
-weight = 1
-
-[[Languages.fr.menu.main]]
-name = "About"
-url = "about/"
-weight = 2
-
-[[Languages.fr.menu.main]]
-name = "Service"
-url = "service/"
-weight = 3
-
-[[Languages.fr.menu.main]]
-name = "Blog"
-url = "blog/"
-weight = 4
-
-[[Languages.fr.menu.main]]
-name = "Team"
-url = "team/"
-weight = 5
-
-[[Languages.fr.menu.main]]
-name = "Contact"
-url = "contact/"
-weight = 7
-
-[[Languages.fr.menu.main]]
-weight = 8
-name = "Pages"
-hasChildren = true
-
-[[Languages.fr.menu.main]]
-parent = "Pages"
-name = "Project"
-url = "project/"
-
-[[Languages.fr.menu.main]]
-parent = "Pages"
-name = "Pricing"
-url = "pricing/"
-
-# footer menu
-[[Languages.fr.menu.footer]]
-name = "Legal"
-url = "#/"
-weight = 1
-
-[[Languages.fr.menu.footer]]
-name = "Sitemap"
-url = "#/"
-weight = 2
-
-[[Languages.fr.menu.footer]]
-name = "Privacy Policy"
-url = "#/"
-weight = 3
-
-[[Languages.fr.menu.footer]]
-name = "Terms & Conditions"
-url = "#/"
 weight = 4
