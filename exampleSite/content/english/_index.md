@@ -189,7 +189,7 @@ blog:
 clients_logo_slider:
   enable : true
   client_logos:
-  - logo: "images/client-logo/client-logo-1.png"
+  - logo: "https://files.giaonhan.org/giaonhan.org_Trung-Nguyen.webp"
     link: "#"
 
   - logo: "images/client-logo/client-logo-2.png"
