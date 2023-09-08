@@ -155,17 +155,17 @@ testimonial:
   title : Hãy nghe khách hàng nói về chúng tôi
   image : https://files.giaonhan.org/giaonhan.org_client.webp
   testimonial_item :
-  - name : Nguyễn Quang Tuấn
-    content : Lorem ipsum dolor sit amet constur adipisicing elit sed eiusmtempor incid sed dolore magna aliqu enim minim veniam quis nostrud exercittion ullamco labo ris nisi aliquip excepteur.
-    designation : Happy Clients
+  - name : Nguyễn Quang Tuấn - Trưởng phòng giao vận
+    content : Kể từ khi bắt đầu làm việc với giaonhan.org, chúng tôi đã thấy chuỗi cung ứng của mình được cải thiện đáng kể. Điều quan trọng là các sản phẩm của chúng tôi đã đến tay khách hàng một cách an toàn và đúng lịch, giaonhan.org đã vận chuyển sự yên tâm.
+    designation : Nhôm Thành Công
     
-  - name : Julia Robertson
-    content : Lorem ipsum dolor sit amet constur adipisicing elit sed eiusmtempor incid sed dolore magna aliqu enim minim veniam quis nostrud exercittion ullamco labo ris nisi aliquip excepteur.
-    designation : Happy Clients
+  - name : Trần Minh Trọng - Giám Đốc Điều Hành
+    content : giaonhan.org đã là đối tác đáng uy tín, đáng tin cậy của Trung Nguyên kể từ chuyến hàng đầu tiên. Họ giúp tôi yên tâm khi biết rằng các lô hàng của chúng tôi được giao nhận đúng giờ và trong tình trạng tốt. Sử dụng giaonhan.org cho phép chúng tôi tập trung vào các khía cạnh khác của công việc thay vì lo lắng về vấn đề hậu cần.
+    designation : Giấy Trung Nguyên
     
-  - name : Julia Robertson
-    content : Lorem ipsum dolor sit amet constur adipisicing elit sed eiusmtempor incid sed dolore magna aliqu enim minim veniam quis nostrud exercittion ullamco labo ris nisi aliquip excepteur.
-    designation : Happy Clients
+  - name : Chu Văn Tín - Phó Phòng Kho Vận
+    content : Dịch vụ mà giaonhan.org đã cung cấp cho chúng tôi kể từ khi chúng tôi thay đổi nhà giao nhận thật tuyệt vời. Các bạn không chỉ cung cấp dịch vụ tuyệt vời, giao hàng nhanh chóng và giao tiếp tuyệt vời mà trong một số trường hợp, các bạn còn giúp ích rất nhiều cho chúng tôi, điều này thực sự được đánh giá rất cao. Cảm ơn!
+    designation : Wontech
 
 ##################################### call to action #################################
 call_to_action:
