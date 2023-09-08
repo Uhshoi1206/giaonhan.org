@@ -159,7 +159,7 @@ testimonial:
     content : Kể từ khi bắt đầu làm việc với giaonhan.org, chúng tôi đã thấy chuỗi cung ứng của mình được cải thiện đáng kể. Điều quan trọng là các sản phẩm của chúng tôi đã đến tay khách hàng một cách an toàn và đúng lịch, giaonhan.org đã vận chuyển sự yên tâm.
     designation : Nhôm Thành Công
     
-  - name : Trần Minh Trọng - Giám Đốc Điều Hành
+  - name : Trần Thái Sơn - Giám Đốc Điều Hành
     content : giaonhan.org đã là đối tác đáng uy tín, đáng tin cậy của Trung Nguyên kể từ chuyến hàng đầu tiên. Họ giúp tôi yên tâm khi biết rằng các lô hàng của chúng tôi được giao nhận đúng giờ và trong tình trạng tốt. Sử dụng giaonhan.org cho phép chúng tôi tập trung vào các khía cạnh khác của công việc thay vì lo lắng về vấn đề hậu cần.
     designation : Giấy Trung Nguyên
     
@@ -189,23 +189,23 @@ blog:
 clients_logo_slider:
   enable : true
   client_logos:
+  - logo: "https://files.giaonhan.org/giaonhan.org_Thanh-Cong.webp"
+    link: "#"
+
   - logo: "https://files.giaonhan.org/giaonhan.org_Trung-Nguyen.webp"
     link: "#"
 
-  - logo: "images/client-logo/client-logo-2.png"
-    link: "https://examplesite.com"
-
-  - logo: "images/client-logo/client-logo-3.png"
+  - logo: "https://files.giaonhan.org/giaonhan.org_Viet-Hoa.webp"
     link: "#"
 
-  - logo: "images/client-logo/client-logo-4.png"
-    link: "https://examplesite.com"
-
-  - logo: "images/client-logo/client-logo-5.png"
+  - logo: "https://files.giaonhan.org/giaonhan.org_Thanh-An.webp"
     link: "#"
 
-  - logo: "images/client-logo/client-logo-3.png"
-    link: "https://examplesite.com"
+  - logo: "https://files.giaonhan.org/giaonhan.org_Ha-Long.webp"
+    link: "#"
+
+  - logo: "https://files.giaonhan.org/giaonhan.org_WONTECH.webp"
+    link: "#"
 
     
 ---
