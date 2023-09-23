@@ -27,7 +27,7 @@ ceo:
 ########################################### Mission ###################################
 mission:
   enable : true
-  inherit_homepage: false
+  inherit_homepage: true
   subtitle : Our Goal
   title : Company Mission
   content : Lorem ipsum dolor sit amet consectetur adipisicing elit sed eiusmod tempor didunt laboris nisi ut aliquip ex ea commodo consequat.
