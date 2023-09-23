@@ -44,7 +44,7 @@ mission:
 
 ###################################### funfacts ####################################
 funfacts:
-  enable : true
+  enable : false
   bg_image : images/background/cta.jpg
   counter:
   - title : Projects Done
