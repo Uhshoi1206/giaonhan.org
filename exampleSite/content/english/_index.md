@@ -163,7 +163,7 @@ testimonial:
     content : giaonhan.org đã là đối tác đáng uy tín, đáng tin cậy của Trung Nguyên kể từ chuyến hàng đầu tiên. Họ giúp tôi yên tâm khi biết rằng các lô hàng của chúng tôi được giao nhận đúng giờ và trong tình trạng tốt. Sử dụng giaonhan.org cho phép chúng tôi tập trung vào các khía cạnh khác của công việc thay vì lo lắng về vấn đề hậu cần.
     designation : Giấy Trung Nguyên
     
-  - name : Chu Văn Tín - Phó Phòng Kho Vận
+  - name : Trần Phát Đạt - Phó Phòng Kho Vận
     content : Dịch vụ mà giaonhan.org đã cung cấp cho chúng tôi kể từ khi chúng tôi thay đổi nhà giao nhận thật tuyệt vời. Các bạn không chỉ cung cấp dịch vụ tuyệt vời, giao hàng nhanh chóng và giao tiếp tuyệt vời mà trong một số trường hợp, các bạn còn giúp ích rất nhiều cho chúng tôi, điều này thực sự được đánh giá rất cao. Cảm ơn!
     designation : Wontech
 
