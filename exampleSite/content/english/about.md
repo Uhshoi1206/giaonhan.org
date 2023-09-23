@@ -1,7 +1,7 @@
 ---
 title: "Giới thiệu về chúng tôi"
 date: 2018-07-12T18:19:33+06:00
-bg_image: https://files.giaonhan.org/giaonhan.org_about-us-page-title.webp
+bg_image: https://files.giaonhan.org/giaonhan.org_page_banner.webp
 description : "Trang này giới thiệu về thế mạnh, thành tích đạt được, sứ mệnh, tầm nhìn, mục tiêu của giaonhan.org"
 layout: "about"
 draft: false
