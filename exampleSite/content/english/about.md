@@ -1,22 +1,22 @@
 ---
-title: "About Us"
+title: "Giới thiệu về chúng tôi"
 date: 2018-07-12T18:19:33+06:00
 bg_image: https://files.giaonhan.org/giaonhan.org_about-us-page-title.webp
-description : "This is meta description"
+description : "Trang này giới thiệu về thế mạnh, thành tích đạt được, sứ mệnh, tầm nhìn, mục tiêu của giaonhan.org"
 layout: "about"
 draft: false
 
 ###################################### philosophy ####################################
 philosophy:
   enable : true
-  subtitle : Know About
-  title : Our Philosophy
-  content : Lorem ipsum dolor sit amet consectetur adipisicing elit sed eiusmod tempor didunt laboris nisi ut aliquip ex commodo consequat. duis aute irure dolor in reprehenderivoluptate velit esse cillum dolore fugiat nulla pariatur.Excepteur sint ocaecat cupidatat noproident sunt culpa qui officia deserunt mollit anim id est laborum.<br> Sed perspiciatis unde omnisiste natus error sit voluptatem accusantium.doloremque ladantium totam rem aperieaque ipsa quae ab illo inventore.veritatis. et quasi architecto beatae vitae dicta sunt explicabo.
-  image : images/about/philosophy.jpg
+  subtitle : Tìm hiểu về
+  title : Triết lý của chúng tôi
+  content : Tuân theo triết lý kinh doanh đơn giản của công ty hậu cần là lấy khách hàng làm trung tâm, giaonhan.org cố gắng giảm chi phí của khách hàng để nâng cao khả năng cạnh tranh của chúng tôi trong ngành. Chúng tôi đã thiết kế và phát triển bộ quy trình giao nhận và vận chuyển hàng hóa toàn diện cho khách hàng, hướng tới kết nối với mạng lưới logistics quốc tế nhằm nâng cao hiệu quả kinh tế của công ty khách hàng.
+  image : https://files.giaonhan.org/giaonhan.org_philosophy.webp
 
 ###################################### ceo ########################################
 ceo:
-  enable : true
+  enable : false
   bg_image : images/about/ceo.jpg
   title : We are efficient to <br> make your business rise
   content : Lorem ipsum dolor sit amet consectetur adipisicing elit sed eiusmod tempor didunt laboris nisi ut aliquip ex commodo consequat. duis aute irure dolor in reprehenderit voluptate velit esse cillum dolore fugiat nulla pariatur.Excepteur sint ocaecat cupidatat non proident sunt culpa qui officia deserunt mollit anim id est laborum.
