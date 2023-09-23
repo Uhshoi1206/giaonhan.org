@@ -1,7 +1,7 @@
 ---
 title: "Liên hệ"
 date: 2018-07-12T18:19:33+06:00
-bg_image: https://files.giaonhan.org/giaonhan.org_contact_image.webp
+bg_image: https://files.giaonhan.org/giaonhan.org_page_banner.webp
 description : "Trang liên hệ của giaonhan.org"
 layout: "contact"
 
