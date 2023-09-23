@@ -65,7 +65,7 @@ service:
 ######################################## About #########################################
 about:
   enable : true
-  bg_image : "https://files.giaonhan.org/giaonhan.org_about-bg.webp"
+  bg_image : "https://files.giaonhan.org/giaonhan.org_page_banner.webp"
   title : "CHÚNG TÔI LÀ AI?"
   content : "giaonhan.org là đơn vị hàng đầu trong lĩnh vực giao nhận vận chuyển, Logistics, xuất nhập khẩu, thủ tục hải quan..."
   # bullet point
