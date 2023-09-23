@@ -1,8 +1,8 @@
 ---
-title: "Service"
+title: "Dịch vụ chúng tôi cung cấp"
 date: 2018-07-12T18:19:33+06:00
-bg_image: images/background/page-title.jpg
-description : "This is meta description"
+bg_image: https://files.giaonhan.org/giaonhan.org_page_banner.webp
+description : "Trang này thể hiện các dịch vụ giaonhan.org cung cấp; bao gồm: dịch vụ giao nhận vận chuyển đường bộ, dịch vụ giao nhận vận chuyển đường biển, dịch vụ giao nhận vận chuyển đường sắt, dịch vụ giao nhận vận chuyển đường hàng không"
 
 ################## Satisfied clients ###############
 satisfied_clients:
