@@ -1,7 +1,7 @@
 ---
 title: "Dự án"
 date: 2018-07-12T18:19:33+06:00
-bg_image: https://files.giaonhan.org/giaonhan.org_page-title.webp
+bg_image: https://files.giaonhan.org/giaonhan.org_page_banner.webp
 description : "Các dự án chúng tôi đã tham gia thực hiện"
 ---
 
