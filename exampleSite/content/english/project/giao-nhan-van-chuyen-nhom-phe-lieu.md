@@ -2,7 +2,7 @@
 title: "Giao nhận vận chuyển nhôm phế liệu"
 date: 2018-09-24T14:48:03+06:00
 description : "Dự án giao nhận vận chuyển nhôm phế liệu từ Tiền Giang tới Bắc Ninh"
-bg_image: https://files.giaonhan.org/giaonhan.org_page-title.webp
+bg_image: https://files.giaonhan.org/giaonhan.org_page_banner.webp
 image : https://files.giaonhan.org/giaonhan.org_giao-nhan-van-chuyen-nhom-phe-lieu.webp
 category: Giao nhận vận chuyển đường biển
 
