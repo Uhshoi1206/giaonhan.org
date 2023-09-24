@@ -8,16 +8,16 @@ description : "Trang này thể hiện các dịch vụ giaonhan.org cung cấp;
 satisfied_clients:
   enable: true
   bg_image: images/background/clients-bg.jpg
-  subtitle: Our Some
-  title: Satisfied Clients
-  content: Excepteur sint occaecat cupidatat non proident sunt culpa officia deserunt mollit anim id est laborum.Sed ut perspiciatis unde omnis. natus error sit voluptem accusantium doloremqu laudantium totam remaperiam eaque ipsa quae
+  subtitle: Những khách hàng
+  title: hài lòng về dịch vụ giao nhận vận chuyển của chúng tôi
+  content: Bạn đang tìm kiếm một đối tác giao nhận vận chuyển hiệu quả cao, hiểu bạn và doanh nghiệp của bạn? Vậy bạn đã đến đúng chỗ! Với tư cách là nhà cung cấp dịch vụ giao nhận vận chuyển được đánh giá cao nhất, chúng tôi hoàn toàn tập trung vào yêu cầu của bạn và cung cấp cho bạn những giải pháp toàn diện. Tất nhiên, bạn muốn chắc chắn trước khi quyết định chọn chúng tôi. Bạn có thể tham khảo những đánh giá tuyệt vời về sự hài lòng của những khách hàng dưới đây
   logo:
-  - images/client-logo/client-logo-1-white.png
-  - images/client-logo/client-logo-2-white.png
-  - images/client-logo/client-logo-4-white.png
-  - images/client-logo/client-logo-3-white.png
-  - images/client-logo/client-logo-5-white.png
-  - images/client-logo/client-logo-3-white.png
+  - https://files.giaonhan.org/giaonhan.org_Thanh-Cong.webp
+  - https://files.giaonhan.org/giaonhan.org_Trung-Nguyen.webp
+  - https://files.giaonhan.org/giaonhan.org_Viet-Hoa.webp
+  - https://files.giaonhan.org/giaonhan.org_Thanh-An.webp
+  - https://files.giaonhan.org/giaonhan.org_Ha-Long.webp
+  - https://files.giaonhan.org/giaonhan.org_WONTECH.webp
     
 ################### call to action ##################
 testimonial:
