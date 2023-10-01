@@ -6,7 +6,7 @@ description : "Tìm hiểu về các loại container và vai trò quan trọng 
 author: Sola
 image: https://files.giaonhan.org/giaonhan.org_cac-loai-container-duoc-su-dung-trong-giao-nhan-van-chuyen.webp
 categories: ["Kiến thức"]
-tags: ["Kiến thức","Giao nhận vận chuyển","Container","Giao nhận vận chuyển đường biển","Giao nhận vận chuyển đường bộ","Giao nhận vận chuyển đường sắt"]
+tags: ["Kiến thức","Container","Giao nhận vận chuyển","Giao nhận vận chuyển đường biển","Giao nhận vận chuyển đường bộ","Giao nhận vận chuyển đường sắt"]
 type: post
 ---
 
