@@ -12,5 +12,4 @@ social:
     link : "#"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet.
-Donec nisi dolor, consequat vel pretium id, auctor in dui. Nam iaculis, neque ac ullamcorper.
+Sola đã có rất nhiều năm kinh nghiệm viết bài về giao nhận vận chuyển, logistics,...Anh ấy sẽ chia sẻ trải nghiệm thực tế về giao nhận vận chuyển, đảm bảo hàng hóa của bạn được an toàn, giao nhận đúng thời gian và tối ưu chi phí, quy trình vận hành.
