@@ -1,7 +1,7 @@
 ---
-title: "John Doe"
-email: "email2@example.org"
-image: ""
+title: "Sola"
+email: "sale@giaonhan.org"
+image: "https://files.giaonhan.org/giaonhan.org_page_banner.webp"
 social:
   - icon : "ti-facebook" # themify icon pack : https://themify.me/themify-icons
     link : "#"
