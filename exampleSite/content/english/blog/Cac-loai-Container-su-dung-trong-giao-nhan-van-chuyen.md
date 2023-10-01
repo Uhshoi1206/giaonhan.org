@@ -10,7 +10,7 @@ tags: ["Consultancy","Marketing","Finance"]
 type: post
 ---
 
-# Các loại container: Sự Đa Dạng Trong Ngành Vận Tải
+# Các loại container: Sự đa dạng trong ngành vận tải
 
 {{< toc >}}
 
