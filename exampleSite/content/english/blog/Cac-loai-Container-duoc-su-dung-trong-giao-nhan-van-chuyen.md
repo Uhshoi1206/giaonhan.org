@@ -4,9 +4,9 @@ bg_image: https://files.giaonhan.org/giaonhan.org_page_banner.webp
 date: 2018-09-24T11:11:24+06:00
 description : "Tìm hiểu về các loại container và vai trò quan trọng của chúng trong ngành giao nhận vận chuyển. Bài viết này sẽ giúp bạn hiểu rõ hơn về các lựa chọn container phù hợp và cách chúng đóng góp vào hoạt động logistics."
 author: Sola
-image: https://www.transportdepot.ru/img/vid-konteinerov.jpg
+image: https://files.giaonhan.org/giaonhan.org_cac-loai-container-duoc-su-dung-trong-giao-nhan-van-chuyen.webp
 categories: ["Kiến thức"]
-tags: ["Consultancy","Marketing","Finance"]
+tags: ["Kiến thức","Giao nhận vận chuyển","Container","Giao nhận vận chuyển đường biển","Giao nhận vận chuyển đường bộ","Giao nhận vận chuyển đường sắt"]
 type: post
 ---
 
