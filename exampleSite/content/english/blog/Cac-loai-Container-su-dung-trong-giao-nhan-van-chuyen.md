@@ -3,7 +3,7 @@ title: "Các loại Container sử dụng trong giao nhận vận chuyển"
 bg_image: https://files.giaonhan.org/giaonhan.org_page_banner.webp
 date: 2018-09-24T11:11:24+06:00
 description : "Tìm hiểu về các loại container và vai trò quan trọng của chúng trong ngành giao nhận vận chuyển. Bài viết này sẽ giúp bạn hiểu rõ hơn về các lựa chọn container phù hợp và cách chúng đóng góp vào hoạt động logistics."
-author: John Doe
+author: Sola
 image: images/blog/blog-4.jpg
 categories: ["Consultancy"]
 tags: ["Consultancy","Marketing","Finance"]
