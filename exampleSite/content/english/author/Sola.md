@@ -2,6 +2,7 @@
 title: "Sola"
 email: "sale@giaonhan.org"
 bg_image: https://files.giaonhan.org/giaonhan.org_page_banner.webp
+image: "https://files.giaonhan.org/logo_giaonhan.org_184x184.webp"
 social:
   - icon : "ti-facebook" # themify icon pack : https://themify.me/themify-icons
     link : "#"
