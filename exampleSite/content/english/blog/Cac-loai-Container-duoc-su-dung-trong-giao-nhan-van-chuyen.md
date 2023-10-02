@@ -20,6 +20,8 @@ Container, từng được gọi là "hòm hàng" trong tiếng Việt, đã tr�
 
 ## Container 20 feet (TEU)
 
+![Container 20ft](https://files.giaonhan.org/giaonhan.org_container-20ft.webp)
+
 Một trong những loại container phổ biến nhất là *Container 20 feet*, thường được viết tắt là TEU (Twenty-foot Equivalent Unit). Đây là loại container có kích thước tiêu chuẩn và thường được sử dụng cho việc vận chuyển hàng hóa đóng gói sẵn. Container TEU thường được sử dụng cho các loại hàng hóa như:
 
 - Thực phẩm đóng hộp<br>
