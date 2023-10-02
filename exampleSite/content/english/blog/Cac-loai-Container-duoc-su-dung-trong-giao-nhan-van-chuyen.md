@@ -33,6 +33,8 @@ Container TEU có chiều dài 20 feet (khoảng 6 mét) và là lựa chọn ph
 
 ## Container 40 feet (FEU)
 
+![Container 40ft](https://files.giaonhan.org/giaonhan.org_container-40ft.webp)
+
 Nếu bạn cần vận chuyển nhiều hàng hóa hơn, *Container 40 feet* (FEU - Forty-foot Equivalent Unit) có thể là sự lựa chọn tốt hơn. Container FEU có chiều dài gấp đôi so với TEU và thường được sử dụng cho các loại hàng hóa cồng kềnh hoặc lớn như:
 
 - Máy móc công nghiệp<br>
