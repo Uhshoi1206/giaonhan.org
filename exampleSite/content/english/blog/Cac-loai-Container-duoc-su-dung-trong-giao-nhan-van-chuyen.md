@@ -49,13 +49,19 @@ Ngoài các loại container tiêu chuẩn như TEU và FEU, còn tồn tại nh
 
 ### Reefer Container
 
+![Reefer container](https://files.giaonhan.org/giaonhan.org_Reefer-container.webp)
+
 *Reefer container* là một loại container được thiết kế đặc biệt để vận chuyển hàng hóa cần được kiểm soát nhiệt độ, chẳng hạn như thực phẩm đông lạnh hoặc hàng hóa nhạy cảm về nhiệt độ. Loại container này được trang bị hệ thống làm lạnh và kiểm soát độ ẩm để đảm bảo hàng hóa luôn được bảo quản tốt trong suốt hành trình.
 
 ### Open Top Container
 
+![Open Top Container](https://files.giaonhan.org/giaonhan.org_Open-Top-Container.webp)
+
 *Open top container* là một loại container có thể mở nóc trên cùng. Điều này cho phép dễ dàng xếp và dỡ hàng hóa bằng cần cẩu hoặc thiết bị nâng hạ từ trên đầu. Open top container thường được sử dụng cho các loại hàng hóa có kích thước lớn hoặc khó xếp như máy móc nông nghiệp, công nghiệp.
 
 ### Flat Rack Container
+
+![Flat Rack Container](https://files.giaonhan.org/giaonhan.org_Flat-Rack-Container.webp)
 
 *Flat rack container* là một loại container không có thành bên cũng như nóc, giúp cho việc xếp hàng hóa lên container dễ dàng hơn. Container này thường được sử dụng để giao nhận vận chuyển các loại hàng hóa có kích thước cồng kềnh như máy móc xây dựng hoặc ống thép dài, thiết bị siêu trường siêu trọng.
 
