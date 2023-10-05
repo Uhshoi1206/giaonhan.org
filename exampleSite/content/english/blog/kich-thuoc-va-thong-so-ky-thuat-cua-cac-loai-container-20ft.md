@@ -40,5 +40,5 @@ Về sức chứa, một container 20 feet có thể chứa tới 10 pallet lo�
 
 ## Trọng lượng và tải trọng cont 20’
 
-*Trọng lượng rỗng (tara):* Trọng lượng của container 20ft khi không có hàng hóa bên trong thường là từ 2.300 kg đến 2.450 kg, tùy thuộc vào loại container và nhà sản xuất.
+*Trọng lượng rỗng (tara):* Trọng lượng của container 20ft khi không có hàng hóa bên trong thường là từ 2.300 kg đến 2.450 kg, tùy thuộc vào loại container và nhà sản xuất.<br>
 *Tải trọng tối đa:* Container 20ft có khả năng chịu tải tối đa từ 24.000 kg đến 28.000 kg. Điều này có thể thay đổi theo quy định của từng quốc gia hoặc cảng biển.
