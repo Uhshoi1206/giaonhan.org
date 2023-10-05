@@ -30,3 +30,15 @@ Container 20 feet (cont 20') là một loại container có kích thước chu�
 *Rộng:* 2,35m<br>
 *Cao:* 2,39m
 
+Tuy nhiên, các con số này có thể có sự biến đổi nhỏ tuỳ thuộc vào thiết kế của từng nhà sản xuất.
+
+## Sức chứa của container 20'
+
+Dung tích của một container 20 feet được tính bằng TEU (twenty-foot equivalent units), trong đó 1 container 20 feet được tính là 1 TEU. Một container loại 20 feet có dung tích dao động khoảng 33m3 (container thường) hoặc 37m3 (container cao).
+
+Về sức chứa, một container 20 feet có thể chứa tới 10 pallet loại 1 x 1,2m (xếp sóng đôi), miễn là tải trọng của hàng bên trong không vượt quá giới hạn qui định. Đối với các pallet có kích thước dài hơn, cần tính toán số lượng có thể xếp trong container 20 feet để tránh việc không xếp hết hàng.
+
+## Trọng lượng và tải trọng cont 20’
+
+*Trọng lượng rỗng (tara):* Trọng lượng của container 20ft khi không có hàng hóa bên trong thường là từ 2.300 kg đến 2.450 kg, tùy thuộc vào loại container và nhà sản xuất.
+*Tải trọng tối đa:* Container 20ft có khả năng chịu tải tối đa từ 24.000 kg đến 28.000 kg. Điều này có thể thay đổi theo quy định của từng quốc gia hoặc cảng biển.
