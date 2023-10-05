@@ -67,9 +67,13 @@ Ngoài các loại container tiêu chuẩn như TEU và FEU, còn tồn tại nh
 
 ### High Cube Container
 
+![High Cube Container](https://files.giaonhan.org/giaonhan.org_High-Cube-Container.webp)
+
 *High cube container* là một phiên bản cao hơn của container TEU hoặc FEU, với chiều cao 9'6”. Điều này cho phép vận chuyển các loại hàng hóa có kích thước lớn hơn hoặc cần không gian chứa nhiều hơn. Container này thường được sử dụng cho việc vận chuyển hàng hóa nhẹ, cồng kềnh, hàng quá khổ.
 
 ### Tank Container
+
+![Tank Container](https://files.giaonhan.org/giaonhan.org_Tank-Container.webp)
 
 *Tank container* là một loại container được thiết kế để vận chuyển chất lỏng như dầu, hóa chất hay sữa. Chúng có một hoặc nhiều bể chứa và được trang bị hệ thống an toàn đặc biệt để đảm bảo không có rò rỉ hoặc sự cố nào xảy ra trong quá trình vận chuyển.
 
