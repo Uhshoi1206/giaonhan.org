@@ -21,12 +21,12 @@ Container 20 feet (cont 20') là một loại container có kích thước chu�
 ## Kích thước cont 20 là bao nhiêu?
 
 Kích thước bên ngoài của container 20 feet tiêu chuẩn là như sau:
-Chiều dài: Container 20ft có chiều dài khoảng 6.06 mét hoặc 20 feet, chính vì vậy được gọi là "20ft".
-Rộng: Chiều rộng của container 20ft là khoảng 2.44 mét.
+Chiều dài: Container 20ft có chiều dài khoảng 6.06 mét hoặc 20 feet, chính vì vậy được gọi là "20ft".<br>
+Rộng: Chiều rộng của container 20ft là khoảng 2.44 mét.<br>
 Cao: Chiều cao của container thường là 2.59 mét.
 
 Kích thước bên trong của container 20 feet như sau:
-Chiều dài: 5,90m
-Rộng: 2,35m
+Chiều dài: 5,90m<br>
+Rộng: 2,35m<br>
 Cao: 2,39m
 
