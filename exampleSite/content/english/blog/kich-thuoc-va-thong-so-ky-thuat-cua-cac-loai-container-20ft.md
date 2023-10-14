@@ -50,21 +50,21 @@ Về sức chứa, một container 20 feet có thể chứa tới 10 pallet lo�
 
 ## Đặc điểm và kích thước cont 20 feet khô (DC)
 
-Container 20 feet hàng khô (DC) là loại container chuyên dùng để vận chuyển các hàng hóa đóng kiện, thùng giấy, hòm, hàng rời và đồ đạc. Thông số kỹ thuật của container này tuân theo quy chuẩn quốc tế, nhưng có thể có những khác biệt nhỏ tuỳ thuộc vào nơi sản xuất.
+Container 20 feet khô (DC) là loại container chuyên dùng để vận chuyển các hàng hóa đóng kiện, thùng giấy, hàng rời và đồ đạc. Thông số kỹ thuật của container này tuân theo quy chuẩn quốc tế, nhưng có thể có những khác biệt nhỏ tuỳ thuộc vào nơi sản xuất.
 
-Kích thước bên ngoài của container 20 feet hàng khô:
+Kích thước bên ngoài của container 20 feet khô là:
 
     Chiều dài: 6,06 m<br>
     Rộng: 2,44 m<br>
     Cao: 2,59 m
 
-Sức chứa của container 20 feet hàng khô khoảng 33m3.
+Sức chứa của container 20 feet khô khoảng 33m3.
 
 ## Đặc điểm và kích thước cont 20 feet cao (HC)
 
 Container 20 feet cao (HC) tương tự như container 20 feet hàng khô, nhưng có chiều cao cao hơn. Container này được sử dụng để vận chuyển các hàng hóa có khối lượng lớn như gạo, bột, thức ăn gia súc... Kích thước của container 20 feet cao tuân theo quy chuẩn quốc tế.
 
-Kích thước bên ngoài của container 20 feet cao:
+Kích thước bên ngoài của container 20 feet cao là:
 
     Chiều dài: 6,06 m<br>
     Rộng: 2,44 m<br>
@@ -76,19 +76,19 @@ Sức chứa của container 20 feet cao khoảng 37,4m3.
 
 Container 20 feet lạnh (RF) là loại container được tích hợp máy lạnh và có khả năng duy trì nhiệt độ từ -18 đến -23 độ C. Loại container này thường được sử dụng để vận chuyển hàng hóa như hải sản, trái cây, hoa quả...
 
-Kích thước bên ngoài của container 20 feet lạnh:
+Kích thước bên ngoài của container 20 feet lạnh là:
 
     Chiều dài: 6,06 m<br>
     Rộng: 2,44 m<br>
     Cao: 2,59 m
 
-Sức chứa của container 20 feet lạnh cũng dao động tương tự như container 20 feet hàng khô, nhưng do diện tích máy lạnh và hệ thống cách nhiệt, diện tích lọt lòng của container 20 feet lạnh nhỏ hơn.
+Sức chứa của container 20 feet lạnh cũng dao động tương tự như container 20 feet khô, nhưng do diện tích máy lạnh và hệ thống cách nhiệt, diện tích lọt lòng của container 20 feet lạnh nhỏ hơn.
 
 ## Đặc điểm và kích thước cont 20 feet mở nóc (OT)
 
 Container 20 feet mở nóc (OT) là loại container có một tấm bạt rời trên nóc cho phép xếp hàng từ trên xuống và có thể gấp hai đầu xuống thành một mặt phẳng. Loại này được sử dụng để vận chuyển các hàng hóa quá khổ như máy móc, kiện kính, đa tảng, thiết kế bị xây dựng...
 
-Kích thước bên ngoài của container 20 feet mở nóc:
+Kích thước bên ngoài của container 20 feet mở nóc là:
 
     Chiều dài: 6,06 m<br>
     Rộng: 2,44 m<br>
@@ -98,7 +98,7 @@ Kích thước bên ngoài của container 20 feet mở nóc:
 
 Container 20 feet Flat Rack là loại container có thân và 2 đầu cho phép xếp hàng từ hai bên và phía trên xuống. Container này có nhiều loại gập được hai đầu xuống thành một mặt phẳng và được sử dụng để vận chuyển các hàng hóa quá khổ như máy móc, cáp, thùng phi, thép cuộn, xe nặng, gỗ và các sản phẩm nông nghiệp.
 
-Kích thước bên ngoài của container 20 feet Flat Rack:
+Kích thước bên ngoài của container 20 feet Flat Rack là:
 
     Chiều dài: 6,06 m<br>
     Rộng: 2,44 m<br>
@@ -108,7 +108,7 @@ Kích thước bên ngoài của container 20 feet Flat Rack:
 
 Container 20 feet hai cửa được thiết kế với hai cửa ở hai đầu để dễ dàng bốc xếp hàng vào xe. Container này phù hợp để vận chuyển các loại hàng như thực phẩm, đồ dùng gia đình, hàng nặng, máy móc, linh kiện điện tử...
 
-Kích thước bên ngoài của container 20 feet hai cửa:
+Kích thước bên ngoài của container 20 feet hai cửa là:
 
     Chiều dài: 6,06 m<br>
     Rộng: 2,44 m<br>
@@ -118,7 +118,7 @@ Kích thước bên ngoài của container 20 feet hai cửa:
 
 Container 20 feet cách nhiệt là loại container được thiết kế để giữ nhiệt độ ổn định cho các loại hàng hóa như hóa chất, đồ đông lạnh, thực phẩm và các sản phẩm chế biến từ sữa, hàng dược phẩm...
 
-Kích thước bên ngoài của container 20 feet cách nhiệt:
+Kích thước bên ngoài của container 20 feet cách nhiệt là:
 
     Chiều dài: 6,06 m<br>
     Rộng: 2,44 m<br>
@@ -128,7 +128,7 @@ Kích thước bên ngoài của container 20 feet cách nhiệt:
 
 Container 20 feet bồn (IMO) được sử dụng để chở các loại hàng nguy hiểm như chất độc, chất ăn mòn, chất lỏng dễ cháy. Container bồn non-hazardous được sử dụng để vận chuyển dầu, chất dẻo nhựa thông, sữa, bia, nước khoáng...
 
-Kích thước bên ngoài của container 20 feet bồn:
+Kích thước bên ngoài của container 20 feet bồn là:
 
     Chiều dài: 6,06 m<br>
     Rộng: 2,44 m<br>
