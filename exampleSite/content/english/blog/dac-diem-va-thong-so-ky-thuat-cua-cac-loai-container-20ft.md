@@ -52,12 +52,12 @@ Về sức chứa, một container 20 feet có thể chứa tới 10 pallet lo�
 
 Container 20 feet khô (DC) là loại container thường được dùng để vận chuyển các mặt hàng nặng và không yêu cầu về thể tích như: bột, gạo, thức ăn gia súc, xi măng... Thông số kỹ thuật của container này tuân theo quy chuẩn quốc tế, nhưng có thể có những khác biệt nhỏ tuỳ thuộc vào nơi sản xuất.
 
-Kích thước bên ngoài (phủ bì) của container 20 feet khô là: 6060 x 2440 x 2590 mm
-Kích thước bên trong (lọt lòng) của container 20 feet khô là: 5898 x 2352 x 2395 mm
-Kích thước cửa container 20 feet khô là: 2340 x 2280 mm
-Thể tích container 20 feet khô khoảng: 33.2 m3
-Trọng lượng vỏ container 20 feet khô: 2220 kg
-Trọng lượng hàng tối đa container 20 feet khô: 28,280 kg
+Kích thước bên ngoài (phủ bì) của container 20 feet khô là: 6060 x 2440 x 2590 mm<br>
+Kích thước bên trong (lọt lòng) của container 20 feet khô là: 5898 x 2352 x 2395 mm<br>
+Kích thước cửa container 20 feet khô là: 2340 x 2280 mm<br>
+Thể tích container 20 feet khô khoảng: 33.2 m3<br>
+Trọng lượng vỏ container 20 feet khô: 2220 kg<br>
+Trọng lượng hàng tối đa container 20 feet khô: 28,280 kg<br>
 Trọng lượng tối đa cả vỏ container 20 feet khô: 30,480 kg
 
 ## Đặc điểm và kích thước cont 20 feet cao (HC)
