@@ -17,7 +17,7 @@ draft: true
 
 ## Giới thiệu
 
-Container 20 feet (viết tắt là cont 20') là một trong những loại container phổ biến trong giao nhận vận chuyển hàng hóa có dạng hình hộp chữ nhật và được cấu tạo chính từ thép để đảm bảo sự bền bỉ và an toàn trong quá trình giao nhận vận chuyển. Kích thước và thông số kỹ thuật của các loại container 20 feet có vai trò quan trọng để đảm bảo việc đóng gói và vận chuyển hàng hóa diễn ra thuận tiện và an toàn. Trong bài viết này, chúng ta sẽ tìm hiểu về các loại container 20 feet khác nhau, cùng với đặc điểm và các thông số kỹ thuật đi kèm.
+Container 20 feet (viết tắt là cont 20') là một trong những loại container phổ biến trong giao nhận vận chuyển hàng hóa có dạng hình hộp chữ nhật và được cấu tạo chính từ thép để đảm bảo sự bền bỉ và an toàn trong quá trình giao nhận vận chuyển. Trong bài viết này, chúng ta sẽ tìm hiểu về các loại container 20 feet khác nhau, cùng với đặc điểm và các thông số kỹ thuật đi kèm để đảm bảo việc đóng gói và vận chuyển hàng hóa diễn ra thuận tiện và an toàn.
 
 ## Kích thước cont 20 là bao nhiêu?
 
