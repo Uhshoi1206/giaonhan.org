@@ -1,8 +1,8 @@
 ---
-title: "Cùng tìm hiểu về kích thước và thông số kỹ thuật của các loại container 20ft (Mới cập nhật)"
+title: "Cùng tìm hiểu về đặc điểm và thông số kỹ thuật của các loại container 20ft (Mới cập nhật)"
 bg_image: https://files.giaonhan.org/giaonhan.org_page_banner.webp
 date: 2018-09-24T11:07:10+06:00
-description : "Cùng tìm hiểu chi tiết về kích thước và thông số kỹ thuật của các loại container 20ft để chọn loại container phù hợp theo nhu cầu"
+description : "Cùng tìm hiểu chi tiết về đặc điểm và thông số kỹ thuật của các loại container 20ft để chọn loại container phù hợp theo nhu cầu"
 author: Sola
 image: images/blog/blog-3.jpg
 categories: ["Kiến thức"]
@@ -11,7 +11,7 @@ type: post
 draft: true
 ---
 
-# Kích thước và thông số kỹ thuật của các loại container 20ft
+# Đặc điểm và thông số kỹ thuật của các loại container 20ft
 
 {{< toc >}}
 
