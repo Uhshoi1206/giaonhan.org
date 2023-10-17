@@ -86,7 +86,7 @@ Trọng lượng tối đa cả vỏ container 20 feet lạnh: 30,480 kg
 
 ## Đặc điểm và kích thước cont 20 feet mở nóc (OT)
 
-Container 20 feet mở nóc (OT) là loại container có một tấm bạt rời trên nóc cho phép xếp hàng từ trên xuống và có thể gấp hai đầu xuống thành một mặt phẳng. Loại này được sử dụng để vận chuyển các hàng hóa quá khổ như máy móc, kiện kính, đa tảng, thiết kế bị xây dựng...
+Container 20 feet mở nóc (OT) là loại container được thiết kế không có nóc và thường được phủ một lớp bạt ở trên nóc để bảo vệ hàng hóa và đảm bảo sự an toàn cho người đi đường; ngoài ra container này có đầy đủ các vách như container thường. Loại này được sử dụng để vận chuyển các hàng hóa quá khổ như máy móc, kiện kính, đa tảng, thiết kế bị xây dựng...
 
 Kích thước bên ngoài của container 20 feet mở nóc là:
 
