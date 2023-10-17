@@ -86,13 +86,15 @@ Trọng lượng tối đa cả vỏ container 20 feet lạnh: 30,480 kg
 
 ## Đặc điểm và kích thước cont 20 feet mở nóc (OT)
 
-Container 20 feet mở nóc (OT) là loại container được thiết kế không có nóc và thường được phủ một lớp bạt ở trên nóc để bảo vệ hàng hóa và đảm bảo sự an toàn cho người đi đường; ngoài ra container này có đầy đủ các vách như container thường. Loại này được sử dụng để vận chuyển các hàng hóa quá khổ như máy móc, kiện kính, đa tảng, thiết kế bị xây dựng...
+Container 20 feet mở nóc (OT) là loại container được thiết kế không có nóc và thường được phủ một lớp bạt ở trên nóc để bảo vệ hàng hóa và đảm bảo sự an toàn cho người đi đường; ngoài ra container này có đầy đủ các vách như container thường. Loại cont này thích hợp để vận chuyển các mặt hàng quá kích thước không thể xếp qua cửa container; chẳng hạn như máy móc, kiện kính, đá tảng, thiết bị xây dựng...
 
-Kích thước bên ngoài của container 20 feet mở nóc là:
-
-    Chiều dài: 6,06 m<br>
-    Rộng: 2,44 m<br>
-    Cao: 2,59 m
+Kích thước bên ngoài (phủ bì) của container 20 feet mở nóc là: 6060 x 2440 x 2590 mm<br>
+Kích thước bên trong của container 20 feet mở nóc là: 5900 x 2348 x 2360 mm<br>
+Kích thước cửa container 20 feet mở nóc là: 2340 x 2277 mm<br>
+Thể tích container 20 feet mở nóc khoảng: 32.6 m3<br>
+Trọng lượng vỏ container 20 feet mở nóc: 2,300 kg<br>
+Trọng lượng hàng tối đa container 20 feet mở nóc: 28,180 kg<br>
+Trọng lượng tối đa cả vỏ container 20 feet mở nóc: 30,480 kg
 
 ## Đặc điểm và kích thước cont 20 feet Flat Rack
 
