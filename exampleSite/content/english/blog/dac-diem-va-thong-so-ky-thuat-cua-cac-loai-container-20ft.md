@@ -45,32 +45,32 @@ Về sức chứa, một container 20 feet có thể chứa tới 10 pallet lo�
 
 ## Trọng lượng và tải trọng cont 20’
 
-*Trọng lượng rỗng (tara):* Trọng lượng của container 20ft khi không có hàng hóa bên trong thường là từ 2.300 kg đến 2.450 kg, tùy thuộc vào loại container và nhà sản xuất.<br>
-*Tải trọng tối đa:* Container 20ft có khả năng chịu tải tối đa từ 24.000 kg đến 28.000 kg. Điều này có thể thay đổi theo quy định của từng quốc gia hoặc cảng biển. Một số quốc gia có quy định tải trọng đóng hàng thấp hơn mức giới hạn ghi trên vỏ container. Vì vậy, trước khi vận chuyển hàng, bạn nên kiểm tra với hãng tàu về quy định cụ thể tại từng cảng xếp hoặc cảng dỡ.
+*Trọng lượng rỗng (tara):* Trọng lượng của container 20ft khi không có hàng hóa bên trong thường là từ 2,300 kg đến 2,450 kg, tùy thuộc vào loại container và nhà sản xuất.<br>
+*Tải trọng tối đa:* Container 20ft có khả năng chịu tải tối đa từ 24,000 kg đến 28,000 kg. Điều này có thể thay đổi theo quy định của từng quốc gia hoặc cảng biển. Một số quốc gia có quy định tải trọng đóng hàng thấp hơn mức giới hạn ghi trên vỏ container. Vì vậy, trước khi vận chuyển hàng, bạn nên kiểm tra với hãng tàu về quy định cụ thể tại từng cảng xếp hoặc cảng dỡ.
 
 ## Đặc điểm và kích thước cont 20 feet khô (DC)
 
-Container 20 feet khô (DC) là loại container thường được dùng để vận chuyển các mặt hàng nặng và không yêu cầu về thể tích như: bột, gạo, thức ăn gia súc, xi măng... Thông số kỹ thuật của container này tuân theo quy chuẩn quốc tế, nhưng có thể có những khác biệt nhỏ tuỳ thuộc vào nơi sản xuất.
+Container 20 feet khô (DC) là loại container thường được dùng để giao nhận vận chuyển các mặt hàng nặng và không yêu cầu về thể tích như: bột, gạo, thức ăn gia súc, xi măng... Thông số kỹ thuật của container này tuân theo quy chuẩn quốc tế, nhưng có thể có những khác biệt nhỏ tuỳ thuộc vào nơi sản xuất.
 
 Kích thước bên ngoài (phủ bì) của container 20 feet khô là: 6060 x 2440 x 2590 mm<br>
 Kích thước bên trong (lọt lòng) của container 20 feet khô là: 5898 x 2352 x 2395 mm<br>
 Kích thước cửa container 20 feet khô là: 2340 x 2280 mm<br>
 Thể tích container 20 feet khô khoảng: 33.2 m3<br>
-Trọng lượng vỏ container 20 feet khô: 2220 kg<br>
+Trọng lượng vỏ container 20 feet khô: 2,220 kg<br>
 Trọng lượng hàng tối đa container 20 feet khô: 28,280 kg<br>
 Trọng lượng tối đa cả vỏ container 20 feet khô: 30,480 kg
 
 ## Đặc điểm và kích thước cont 20 feet cao (HC)
 
-Container 20 feet cao (HC) tương tự như container 20 feet hàng khô, nhưng có chiều cao cao hơn. Container này được sử dụng để vận chuyển các hàng hóa có khối lượng lớn như gạo, bột, thức ăn gia súc... Kích thước của container 20 feet cao tuân theo quy chuẩn quốc tế.
+Container 20 feet cao (HC) có kích thước tương tự như container 20 feet khô, nhưng có chiều cao cao hơn. Container 20 feet cao (HC) được sử dụng để giao nhận vận chuyển các mặt hàng yêu cầu nhiều diện tích hơn cont 20 thường. Ví dụ như: giấy, khung nhựa, khung kim loại...
 
-Kích thước bên ngoài của container 20 feet cao là:
-
-    Chiều dài: 6,06 m<br>
-    Rộng: 2,44 m<br>
-    Cao: 2,89 m
-
-Sức chứa của container 20 feet cao khoảng 37,4m3.
+Kích thước bên ngoài (phủ bì) của container 20 feet cao là: 6060 x 2440 x 2890 mm<br>
+Kích thước bên trong (lọt lòng) của container 20 feet cao là: 5898 x 2352 x 2698 mm<br>
+Kích thước cửa container 20 feet cao là: 2340 x 2585 mm<br>
+Thể tích container 20 feet cao khoảng: 37.4 m3<br>
+Trọng lượng vỏ container 20 feet cao: 2,340 kg<br>
+Trọng lượng hàng tối đa container 20 feet cao: 28,140 kg<br>
+Trọng lượng tối đa cả vỏ container 20 feet cao: 30,480 kg
 
 ## Đặc điểm và kích thước cont 20 feet lạnh (RF)
 
