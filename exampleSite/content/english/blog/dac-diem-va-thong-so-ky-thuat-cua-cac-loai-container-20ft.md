@@ -8,7 +8,7 @@ image: images/blog/blog-3.jpg
 categories: ["Kiến thức"]
 tags: ["Kiến thức","Container","Giao nhận vận chuyển","Giao nhận vận chuyển đường biển","Giao nhận vận chuyển đường bộ","Giao nhận vận chuyển đường sắt"]
 type: post
-draft: true
+draft: /true/
 ---
 
 # Đặc điểm và thông số kỹ thuật của các loại container 20ft
