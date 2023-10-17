@@ -74,15 +74,15 @@ Trọng lượng tối đa cả vỏ container 20 feet cao: 30,480 kg
 
 ## Đặc điểm và kích thước cont 20 feet lạnh (RF)
 
-Container 20 feet lạnh (RF) là loại container được tích hợp máy lạnh và có khả năng duy trì nhiệt độ từ -18 đến -23 độ C. Loại container này thường được sử dụng để vận chuyển hàng hóa như hải sản, trái cây, hoa quả...
+Container 20 feet lạnh (RF) là loại container được tích hợp máy lạnh và có khả năng duy trì nhiệt độ từ -18 đến -23 độ C để giao nhận vận chuyển các mặt hàng cần bảo quản ở nhiệt độ thấp, ổn định như: thực phẩm đông lạnh, hải sản, rau củ quả, hoa, thuốc men...
 
-Kích thước bên ngoài của container 20 feet lạnh là:
-
-    Chiều dài: 6,06 m<br>
-    Rộng: 2,44 m<br>
-    Cao: 2,59 m
-
-Sức chứa của container 20 feet lạnh cũng dao động tương tự như container 20 feet khô, nhưng do diện tích máy lạnh và hệ thống cách nhiệt, diện tích lọt lòng của container 20 feet lạnh nhỏ hơn.
+Kích thước bên ngoài (phủ bì) của container 20 feet lạnh là: 6060 x 2440 x 2590 mm<br>
+Kích thước bên trong (lọt lòng) của container 20 feet lạnh là: 5485 x 2286 x 2265 mm<br>
+Kích thước cửa container 20 feet lạnh là: 2286 x 2224 mm<br>
+Thể tích container 20 feet lạnh khoảng: 28.4 m3<br>
+Trọng lượng vỏ container 20 feet lạnh: 3,200 kg<br>
+Trọng lượng hàng tối đa container 20 feet lạnh: 27,280 kg<br>
+Trọng lượng tối đa cả vỏ container 20 feet lạnh: 30,480 kg
 
 ## Đặc điểm và kích thước cont 20 feet mở nóc (OT)
 
