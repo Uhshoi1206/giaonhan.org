@@ -142,12 +142,16 @@ Trọng lượng tối đa cả vỏ container 20 feet bồn: 30,480 kg
 
 ## Đặc điểm và kích thước cont 20 feet hàng rời
 
-Container 20 feet hàng rời là một dạng container tiêu chuẩn với cửa lắp trên nóc để dỡ hàng và cửa lắp bên cạnh để dỡ hàng. Loại container này được thiết kế để chở hóa chất, bột, hạt nhỏ, xi măng, phân bón, đường, thức ăn và gia súc.
+Container 20 feet hàng rời là một dạng container tiêu chuẩn với cửa lắp trên nóc để dỡ hàng và cửa lắp bên cạnh để dỡ hàng. Loại container này được thiết kế để chở hóa chất, bột, hạt nhỏ, xi măng, phân bón, đường, thức ăn gia súc...
 
-Kích thước bên ngoài của container 20 feet hàng rời:
+Kích thước bên ngoài (phủ bì) của container 20 feet hàng rời là: 6,060 x 2,440 x 2,590 mm<br>
+Kích thước bên trong (lọt lòng) của container 20 feet hàng rời là: 5,888 x 2,332 x 2,338 mm<br>
+Kích thước cửa container 20 feet hàng rời là: 2,340 x 2,263 mm<br>
+Thể tích container 20 feet hàng rời khoảng: 32.1 m3<br>
+Trọng lượng vỏ container 20 feet hàng rời: 2,800 kg<br>
+Trọng lượng hàng tối đa container 20 feet hàng rời: 21,200 kg<br>
+Trọng lượng tối đa cả vỏ container 20 feet hàng rời: 24,000 kg
 
-    Chiều dài: 6,06 m<br>
-    Rộng: 2,44 m<br>
-    Cao: 2,59 m
+Trên đây là thông tin về đặc điểm và thông số kỹ thuật của các loại container 20 feet phổ biến hiện nay. Hi vọng rằng bài viết này sẽ giúp bạn có thêm kiến thức để chọn được các loại container phù hợp và tối ưu cho quá trình giao nhận vận chuyển hàng hóa của đơn vị mình.
 
-Trên đây là thông tin về kích thước và thông số kỹ thuật của các loại container 20 feet phổ biến hiện nay. Hi vọng rằng bài viết này sẽ giúp bạn có thêm kiến thức về các loại container này trong quá trình vận chuyển hàng hóa.
+Hãy liên hệ với giaonhan.org qua HOTLINE: 0815555528 hoặc email: sale@giaonhan.org nếu bạn cần tư vấn hoặc có nhu cầu giao nhận vận chuyển hàng hóa!
