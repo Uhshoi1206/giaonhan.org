@@ -122,11 +122,13 @@ Trọng lượng tối đa cả vỏ container 20 feet hai cửa: 30,480 kg
 
 Container 20 feet cách nhiệt là loại container được thiết kế để giữ nhiệt độ ổn định cho các loại hàng hóa như hóa chất, đồ đông lạnh, thực phẩm và các sản phẩm chế biến từ sữa, hàng dược phẩm...
 
-Kích thước bên ngoài của container 20 feet cách nhiệt là:
-
-    Chiều dài: 6,06 m<br>
-    Rộng: 2,44 m<br>
-    Cao: 2,59 m
+Kích thước bên ngoài (phủ bì) của container 20 feet cách nhiệt là: 6,060 x 2,440 x 2,590 mm<br>
+Kích thước bên trong (lọt lòng) của container 20 feet cách nhiệt là: 5,651x 2,235 x 2,083 mm<br>
+Kích thước cửa container 20 feet cách nhiệt là: 2,235 x 2,083 mm<br>
+Thể tích container 20 feet cách nhiệt khoảng: 26.3 m3<br>
+Trọng lượng vỏ container 20 feet cách nhiệt: 2,537 kg<br>
+Trọng lượng hàng tối đa container 20 feet cách nhiệt: 17,757 kg<br>
+Trọng lượng tối đa cả vỏ container 20 feet cách nhiệt: 20,294 kg
 
 ## Đặc điểm và kích thước cont 20 feet bồn (IMO)
 
