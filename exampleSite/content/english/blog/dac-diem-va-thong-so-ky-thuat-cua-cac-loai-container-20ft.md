@@ -98,13 +98,13 @@ Trọng lượng tối đa cả vỏ container 20 feet mở nóc: 30,480 kg
 
 ## Đặc điểm và kích thước cont 20 feet Flat Rack
 
-Container 20 feet Flat Rack là loại container có thân và 2 đầu cho phép xếp hàng từ hai bên và phía trên xuống. Container này có nhiều loại gập được hai đầu xuống thành một mặt phẳng và được sử dụng để vận chuyển các hàng hóa quá khổ như máy móc, cáp, thùng phi, thép cuộn, xe nặng, gỗ và các sản phẩm nông nghiệp.
+Container 20 feet Flat Rack là loại container có thân và 2 đầu cho phép xếp hàng từ hai bên và phía trên xuống. Container này có nhiều loại gập được hai đầu xuống thành một mặt phẳng và được sử dụng để vận chuyển các hàng hóa quá khổ như máy móc, cáp, thùng phi, thép cuộn, xe nặng, gỗ và các sản phẩm công nghiệp, nông nghiệp. Với cấu trúc bằng thép cứng cáp và khung xương chắc chắn, loại container này có khả năng chịu tải trọng lớn và bảo vệ hàng hóa bên trong an toàn.
 
-Kích thước bên ngoài của container 20 feet Flat Rack là:
-
-    Chiều dài: 6,06 m<br>
-    Rộng: 2,44 m<br>
-    Cao: 2,59 m
+Kích thước bên ngoài của container 20 feet Flat Rack là: 6,060 x 2,440 x 2,590 mm<br>
+Kích thước bên trong của container 20 feet Flat Rack là: 5,883 x 2,347 x 2,259 mm<br>
+Trọng lượng vỏ container 20 feet Flat Rack: 2,750 kg<br>
+Trọng lượng hàng tối đa container 20 feet mở nóc: 31,158 kg<br>
+Trọng lượng tối đa cả vỏ container 20 feet mở nóc: 34,000 kg
 
 ## Đặc điểm và kích thước cont 20 feet hai cửa
 
