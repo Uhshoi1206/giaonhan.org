@@ -154,4 +154,4 @@ Trọng lượng tối đa cả vỏ container 20 feet hàng rời: 24,000 kg
 
 Trên đây là thông tin về đặc điểm và thông số kỹ thuật của các loại container 20 feet phổ biến hiện nay. Hi vọng rằng bài viết này sẽ giúp bạn có thêm kiến thức để chọn được các loại container phù hợp và tối ưu cho quá trình giao nhận vận chuyển hàng hóa của đơn vị mình.
 
-Hãy liên hệ với giaonhan.org qua HOTLINE: 0815555528 hoặc email: sale@giaonhan.org nếu bạn cần tư vấn hoặc có nhu cầu giao nhận vận chuyển hàng hóa!
+Hãy liên hệ với giaonhan.org qua HOTLINE: tel:0815555528 hoặc email: sale@giaonhan.org nếu bạn cần tư vấn hoặc có nhu cầu giao nhận vận chuyển hàng hóa!
