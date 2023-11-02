@@ -27,9 +27,9 @@ Container 20 feet (viết tắt là cont 20') là một trong những loại con
 *Cao:* Chiều cao của container thường là 2.59 mét.
 
 **Kích thước bên trong của container 20 feet như sau:** <br>
-*Chiều dài:* 5,90m<br>
-*Rộng:* 2,35m<br>
-*Cao:* 2,39m
+*Chiều dài:* 5.90m<br>
+*Rộng:* 2.35m<br>
+*Cao:* 2.39m
 
 Tuy nhiên, các con số này có thể có sự biến đổi nhỏ tuỳ thuộc vào thiết kế của từng nhà sản xuất.
 
@@ -41,7 +41,7 @@ Kích thước bên ngoài của container 20 feet khô và 20 feet lạnh là n
 
 Dung tích của một container 20 feet được tính bằng TEU (twenty-foot equivalent units), trong đó 1 container 20 feet được tính là 1 TEU. Một container loại 20 feet có dung tích dao động khoảng 33m3 (container thường) hoặc 37m3 (container cao).
 
-Về sức chứa, một container 20 feet có thể chứa tới 10 pallet loại 1 x 1,2m (xếp sóng đôi), miễn là tải trọng của hàng bên trong không vượt quá giới hạn qui định. Đối với các pallet có kích thước dài hơn, cần tính toán số lượng có thể xếp trong container 20 feet để tránh việc không xếp hết hàng.
+Về sức chứa, một container 20 feet có thể chứa tới 10 pallet loại 1 x 1.2m (xếp sóng đôi), miễn là tải trọng của hàng bên trong không vượt quá giới hạn qui định. Đối với các pallet có kích thước dài hơn, cần tính toán số lượng có thể xếp trong container 20 feet để tránh việc không xếp hết hàng.
 
 ## Trọng lượng và tải trọng cont 20’
 
@@ -52,9 +52,9 @@ Về sức chứa, một container 20 feet có thể chứa tới 10 pallet lo�
 
 Container 20 feet khô (DC) là loại container thường được dùng để giao nhận vận chuyển các mặt hàng nặng và không yêu cầu về thể tích như: bột, gạo, thức ăn gia súc, xi măng... Thông số kỹ thuật của container này tuân theo quy chuẩn quốc tế, nhưng có thể có những khác biệt nhỏ tuỳ thuộc vào nơi sản xuất.
 
-Kích thước bên ngoài (phủ bì) của container 20 feet khô là: 6060 x 2440 x 2590 mm<br>
-Kích thước bên trong (lọt lòng) của container 20 feet khô là: 5898 x 2352 x 2395 mm<br>
-Kích thước cửa container 20 feet khô là: 2340 x 2280 mm<br>
+Kích thước bên ngoài (phủ bì) của container 20 feet khô là: 6,060 x 2,440 x 2,590 mm<br>
+Kích thước bên trong (lọt lòng) của container 20 feet khô là: 5,898 x 2,352 x 2,395 mm<br>
+Kích thước cửa container 20 feet khô là: 2,340 x 2,280 mm<br>
 Thể tích container 20 feet khô khoảng: 33.2 m3<br>
 Trọng lượng vỏ container 20 feet khô: 2,220 kg<br>
 Trọng lượng hàng tối đa container 20 feet khô: 28,280 kg<br>
@@ -64,9 +64,9 @@ Trọng lượng tối đa cả vỏ container 20 feet khô: 30,480 kg
 
 Container 20 feet cao (HC) có kích thước tương tự như container 20 feet khô, nhưng có chiều cao cao hơn. Container 20 feet cao (HC) được sử dụng để giao nhận vận chuyển các mặt hàng yêu cầu nhiều diện tích hơn cont 20 thường. Ví dụ như: giấy, khung nhựa, khung kim loại...
 
-Kích thước bên ngoài (phủ bì) của container 20 feet cao là: 6060 x 2440 x 2890 mm<br>
-Kích thước bên trong (lọt lòng) của container 20 feet cao là: 5898 x 2352 x 2698 mm<br>
-Kích thước cửa container 20 feet cao là: 2340 x 2585 mm<br>
+Kích thước bên ngoài (phủ bì) của container 20 feet cao là: 6,060 x 2,440 x 2,890 mm<br>
+Kích thước bên trong (lọt lòng) của container 20 feet cao là: 5,898 x 2,352 x 2,698 mm<br>
+Kích thước cửa container 20 feet cao là: 2,340 x 2,585 mm<br>
 Thể tích container 20 feet cao khoảng: 37.4 m3<br>
 Trọng lượng vỏ container 20 feet cao: 2,340 kg<br>
 Trọng lượng hàng tối đa container 20 feet cao: 28,140 kg<br>
@@ -76,9 +76,9 @@ Trọng lượng tối đa cả vỏ container 20 feet cao: 30,480 kg
 
 Container 20 feet lạnh (RF) là loại container được tích hợp máy lạnh và có khả năng duy trì nhiệt độ từ -18 đến -23 độ C để giao nhận vận chuyển các mặt hàng cần bảo quản ở nhiệt độ thấp, ổn định như: thực phẩm đông lạnh, hải sản, rau củ quả, hoa, thuốc men...
 
-Kích thước bên ngoài (phủ bì) của container 20 feet lạnh là: 6060 x 2440 x 2590 mm<br>
-Kích thước bên trong (lọt lòng) của container 20 feet lạnh là: 5485 x 2286 x 2265 mm<br>
-Kích thước cửa container 20 feet lạnh là: 2286 x 2224 mm<br>
+Kích thước bên ngoài (phủ bì) của container 20 feet lạnh là: 6,060 x 2,440 x 2,590 mm<br>
+Kích thước bên trong (lọt lòng) của container 20 feet lạnh là: 5,485 x 2,286 x 2,265 mm<br>
+Kích thước cửa container 20 feet lạnh là: 2,286 x 2,224 mm<br>
 Thể tích container 20 feet lạnh khoảng: 28.4 m3<br>
 Trọng lượng vỏ container 20 feet lạnh: 3,200 kg<br>
 Trọng lượng hàng tối đa container 20 feet lạnh: 27,280 kg<br>
@@ -88,9 +88,9 @@ Trọng lượng tối đa cả vỏ container 20 feet lạnh: 30,480 kg
 
 Container 20 feet mở nóc (OT) là loại container được thiết kế không có nóc và thường được phủ một lớp bạt ở trên nóc để bảo vệ hàng hóa và đảm bảo sự an toàn cho người đi đường; ngoài ra container này có đầy đủ các vách như container thường. Loại cont này thích hợp để vận chuyển các mặt hàng quá kích thước không thể xếp qua cửa container; chẳng hạn như máy móc, kiện kính, đá tảng, thiết bị xây dựng...
 
-Kích thước bên ngoài (phủ bì) của container 20 feet mở nóc là: 6060 x 2440 x 2590 mm<br>
-Kích thước bên trong của container 20 feet mở nóc là: 5900 x 2348 x 2360 mm<br>
-Kích thước cửa container 20 feet mở nóc là: 2340 x 2277 mm<br>
+Kích thước bên ngoài (phủ bì) của container 20 feet mở nóc là: 6,060 x 2,440 x 2,590 mm<br>
+Kích thước bên trong của container 20 feet mở nóc là: 5,900 x 2,348 x 2,360 mm<br>
+Kích thước cửa container 20 feet mở nóc là: 2,340 x 2,277 mm<br>
 Thể tích container 20 feet mở nóc khoảng: 32.6 m3<br>
 Trọng lượng vỏ container 20 feet mở nóc: 2,300 kg<br>
 Trọng lượng hàng tối đa container 20 feet mở nóc: 28,180 kg<br>
