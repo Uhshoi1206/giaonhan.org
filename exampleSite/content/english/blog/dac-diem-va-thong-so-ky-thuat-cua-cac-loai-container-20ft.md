@@ -132,13 +132,13 @@ Trọng lượng tối đa cả vỏ container 20 feet cách nhiệt: 20,294 kg
 
 ## Đặc điểm và kích thước cont 20 feet bồn (IMO)
 
-Container 20 feet bồn (IMO) được sử dụng để chở các loại hàng nguy hiểm như chất độc, chất ăn mòn, chất lỏng dễ cháy. Container bồn non-hazardous được sử dụng để vận chuyển dầu, chất dẻo nhựa thông, sữa, bia, nước khoáng...
+Container 20 feet bồn (IMO) là loại container được thiết kế đặc biệt để vận chuyển hàng hóa lỏng trong ngành công nghiệp hóa chất, hàng nguy hiểm như chất độc, chất ăn mòn, chất lỏng dễ cháy. Container bồn non-hazardous được sử dụng để vận chuyển dầu, chất dẻo nhựa thông, sữa, bia, nước khoáng....Với khả năng chịu được áp suất cao và được kiểm soát chặt chẽ theo các quy định về an toàn, container bồn IMO là một phương tiện vận chuyển hàng hóa lỏng hiệu quả và an toàn.
 
-Kích thước bên ngoài của container 20 feet bồn là:
-
-    Chiều dài: 6,06 m<br>
-    Rộng: 2,44 m<br>
-    Cao: 2,59 m
+Kích thước bên ngoài của container 20 feet bồn là: 6,060 x 2,440 x 2,590 mm<br>
+Dung tích container 20 feet bồn khoảng: 21,000 lít<br>
+Trọng lượng vỏ container 20 feet bồn: 3,070 kg<br>
+Trọng lượng hàng tối đa container 20 feet bồn: 27,410 kg<br>
+Trọng lượng tối đa cả vỏ container 20 feet bồn: 30,480 kg
 
 ## Đặc điểm và kích thước cont 20 feet hàng rời
 
