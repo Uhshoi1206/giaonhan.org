@@ -110,11 +110,13 @@ Trọng lượng tối đa cả vỏ container 20 feet mở nóc: 34,000 kg
 
 Container 20 feet hai cửa được thiết kế với hai cửa ở hai đầu để dễ dàng bốc xếp hàng vào xe. Container này phù hợp để vận chuyển các loại hàng như thực phẩm, đồ dùng gia đình, hàng nặng, máy móc, linh kiện điện tử...
 
-Kích thước bên ngoài của container 20 feet hai cửa là:
-
-    Chiều dài: 6,06 m<br>
-    Rộng: 2,44 m<br>
-    Cao: 2,59 m
+Kích thước bên ngoài (phủ bì) của container 20 feet hai cửa là: 6,060 x 2,440 x 2,590 mm<br>
+Kích thước bên trong (lọt lòng) của container 20 feet hai cửa là: 5,844x 2,352 x 2,395 mm<br>
+Kích thước cửa container 20 feet hai cửa là: 2,34 x 2,228 mm<br>
+Thể tích container 20 feet hai cửa khoảng: 32.9 m3<br>
+Trọng lượng vỏ container 20 feet hai cửa: 2,340 kg<br>
+Trọng lượng hàng tối đa container 20 feet hai cửa: 28,140 kg<br>
+Trọng lượng tối đa cả vỏ container 20 feet hai cửa: 30,480 kg
 
 ## Đặc điểm và kích thước cont 20 feet cách nhiệt
 
