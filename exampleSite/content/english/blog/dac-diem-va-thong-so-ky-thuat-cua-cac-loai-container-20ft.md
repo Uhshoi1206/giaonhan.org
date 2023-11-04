@@ -4,7 +4,7 @@ bg_image: https://files.giaonhan.org/giaonhan.org_page_banner.webp
 date: 2018-09-24T11:07:10+06:00
 description : "Cùng tìm hiểu chi tiết về đặc điểm và thông số kỹ thuật của các loại container 20ft để chọn loại container phù hợp theo nhu cầu"
 author: Sola
-image: images/blog/blog-3.jpg
+image: https://files.giaonhan.org/giaonhan.org_cont20ft.webp
 categories: ["Kiến thức"]
 tags: ["Kiến thức","Container","Giao nhận vận chuyển","Giao nhận vận chuyển đường biển","Giao nhận vận chuyển đường bộ","Giao nhận vận chuyển đường sắt"]
 type: post
