@@ -8,7 +8,6 @@ image: https://files.giaonhan.org/giaonhan.org_cont20ft.webp
 categories: ["Kiến thức"]
 tags: ["Kiến thức","Container","Giao nhận vận chuyển","Giao nhận vận chuyển đường biển","Giao nhận vận chuyển đường bộ","Giao nhận vận chuyển đường sắt"]
 type: post
-draft: true
 ---
 
 # Đặc điểm và thông số kỹ thuật của các loại container 20ft (Mới cập nhật)
