@@ -49,6 +49,8 @@ Về sức chứa, một container 20 feet có thể chứa tới 10 pallet lo�
 
 ## Đặc điểm và kích thước cont 20 feet khô (DC)
 
+![Container 20ft khô](https://files.giaonhan.org/giaonhan.org_cont20dc.webp)
+
 Container 20 feet khô (DC) là loại container thường được dùng để giao nhận vận chuyển các mặt hàng nặng và không yêu cầu về thể tích như: bột, gạo, thức ăn gia súc, xi măng... Thông số kỹ thuật của container này tuân theo quy chuẩn quốc tế, nhưng có thể có những khác biệt nhỏ tuỳ thuộc vào nơi sản xuất.
 
 Kích thước bên ngoài (phủ bì) của container 20 feet khô là: 6,060 x 2,440 x 2,590 mm<br>
@@ -60,6 +62,8 @@ Trọng lượng hàng tối đa container 20 feet khô: 28,280 kg<br>
 Trọng lượng tối đa cả vỏ container 20 feet khô: 30,480 kg
 
 ## Đặc điểm và kích thước cont 20 feet cao (HC)
+
+![Container 20ft cao](https://files.giaonhan.org/giaonhan.org_cont20hc.webp)
 
 Container 20 feet cao (HC) có kích thước tương tự như container 20 feet khô, nhưng có chiều cao cao hơn. Container 20 feet cao (HC) được sử dụng để giao nhận vận chuyển các mặt hàng yêu cầu nhiều diện tích hơn cont 20 thường. Ví dụ như: giấy, khung nhựa, khung kim loại...
 
@@ -73,6 +77,8 @@ Trọng lượng tối đa cả vỏ container 20 feet cao: 30,480 kg
 
 ## Đặc điểm và kích thước cont 20 feet lạnh (RF)
 
+![Container 20ft lạnh](https://files.giaonhan.org/giaonhan.org_cont20rf.webp)
+
 Container 20 feet lạnh (RF) là loại container được tích hợp máy lạnh và có khả năng duy trì nhiệt độ từ -18 đến -23 độ C để giao nhận vận chuyển các mặt hàng cần bảo quản ở nhiệt độ thấp, ổn định như: thực phẩm đông lạnh, hải sản, rau củ quả, hoa, thuốc men...
 
 Kích thước bên ngoài (phủ bì) của container 20 feet lạnh là: 6,060 x 2,440 x 2,590 mm<br>
@@ -84,6 +90,8 @@ Trọng lượng hàng tối đa container 20 feet lạnh: 27,280 kg<br>
 Trọng lượng tối đa cả vỏ container 20 feet lạnh: 30,480 kg
 
 ## Đặc điểm và kích thước cont 20 feet mở nóc (OT)
+
+![Container 20ft mở nóc](https://files.giaonhan.org/giaonhan.org_cont20ot.webp)
 
 Container 20 feet mở nóc (OT) là loại container được thiết kế không có nóc và thường được phủ một lớp bạt ở trên nóc để bảo vệ hàng hóa và đảm bảo sự an toàn cho người đi đường; ngoài ra container này có đầy đủ các vách như container thường. Loại cont này thích hợp để vận chuyển các mặt hàng quá kích thước không thể xếp qua cửa container; chẳng hạn như máy móc, kiện kính, đá tảng, thiết bị xây dựng...
 
@@ -97,6 +105,8 @@ Trọng lượng tối đa cả vỏ container 20 feet mở nóc: 30,480 kg
 
 ## Đặc điểm và kích thước cont 20 feet Flat Rack
 
+![Container 20ft Flat Rack](https://files.giaonhan.org/giaonhan.org_cont20fr.webp)
+
 Container 20 feet Flat Rack là loại container có thân và 2 đầu cho phép xếp hàng từ hai bên và phía trên xuống. Container này có nhiều loại gập được hai đầu xuống thành một mặt phẳng và được sử dụng để vận chuyển các hàng hóa quá khổ như máy móc, cáp, thùng phi, thép cuộn, xe nặng, gỗ và các sản phẩm công nghiệp, nông nghiệp. Với cấu trúc bằng thép cứng cáp và khung xương chắc chắn, loại container này có khả năng chịu tải trọng lớn và bảo vệ hàng hóa bên trong an toàn.
 
 Kích thước bên ngoài của container 20 feet Flat Rack là: 6,060 x 2,440 x 2,590 mm<br>
@@ -106,6 +116,8 @@ Trọng lượng hàng tối đa container 20 feet mở nóc: 31,158 kg<br>
 Trọng lượng tối đa cả vỏ container 20 feet mở nóc: 34,000 kg
 
 ## Đặc điểm và kích thước cont 20 feet hai cửa
+
+![Container 20ft hai cửa](https://files.giaonhan.org/giaonhan.org_cont20dd.webp)
 
 Container 20 feet hai cửa được thiết kế với hai cửa ở hai đầu để dễ dàng bốc xếp hàng vào xe. Container này phù hợp để vận chuyển các loại hàng như thực phẩm, đồ dùng gia đình, hàng nặng, máy móc, linh kiện điện tử...
 
@@ -130,6 +142,8 @@ Trọng lượng hàng tối đa container 20 feet cách nhiệt: 17,757 kg<br>
 Trọng lượng tối đa cả vỏ container 20 feet cách nhiệt: 20,294 kg
 
 ## Đặc điểm và kích thước cont 20 feet bồn (IMO)
+
+![Container 20ft bồn](https://files.giaonhan.org/giaonhan.org_cont20IMO.webp)
 
 Container 20 feet bồn (IMO) là loại container được thiết kế đặc biệt để vận chuyển hàng hóa lỏng trong ngành công nghiệp hóa chất, hàng nguy hiểm như chất độc, chất ăn mòn, chất lỏng dễ cháy. Container bồn non-hazardous được sử dụng để vận chuyển dầu, chất dẻo nhựa thông, sữa, bia, nước khoáng....Với khả năng chịu được áp suất cao và được kiểm soát chặt chẽ theo các quy định về an toàn, container bồn IMO là một phương tiện vận chuyển hàng hóa lỏng hiệu quả và an toàn.
 
