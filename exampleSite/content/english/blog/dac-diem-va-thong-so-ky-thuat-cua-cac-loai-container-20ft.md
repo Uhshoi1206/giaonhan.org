@@ -10,6 +10,8 @@ tags: ["Kiến thức","Container","Giao nhận vận chuyển","Giao nhận v�
 type: post
 ---
 
+# Đặc điểm và thông số kỹ thuật của các loại container 20ft (Mới cập nhật)
+
 {{< toc >}}
 
 ## Giới thiệu
