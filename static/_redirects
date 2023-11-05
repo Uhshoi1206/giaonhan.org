@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+https://giaonhan.netlify.app/* https://giaonhan.org/:splat 301!
