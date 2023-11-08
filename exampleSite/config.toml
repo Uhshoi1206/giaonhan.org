@@ -7,7 +7,7 @@ paginate = "6"
 # post excerpt
 summaryLength = "10"
 # google analytics
-googleAnalytics = "" # example : UA-123-45
+googleAnalytics = "G-EP4TZ56QDC" # example : UA-123-45
 # disqus short name
 disqusShortname = "themefisher-template" # we use disqus to show comments in blog posts . To install disqus please follow this tutorial https://portfolio.peter-baumgartner.net/2017/09/10/how-to-install-disqus-on-hugo/  . 
 # disable language
