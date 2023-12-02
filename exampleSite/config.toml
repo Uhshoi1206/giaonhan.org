@@ -106,7 +106,7 @@ custom_script = ""
 # nav Button
 [params.nav_button]
 enable = true
-link = "contact"
+link = "danhthiep"
 
 # preloader
 [params.preloader]
