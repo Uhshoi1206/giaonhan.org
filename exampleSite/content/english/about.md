@@ -72,6 +72,7 @@ skill:
   content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed eiusmod tempor incididunt laboris nisi ut aliquip ex ea commodo consequat. <br><br> Duis aute irure dolor in reprehenderit voluptate velit esse cillum dolore fugiat nulla pariatur. Excepteur sint ocaecat cupidatat non proident sunt culpa qui officia deserunt mollit anim id est laborum. sed perspiciatis unde omnisiste natus error sit voluptatem accusantium.doloremque ladantium totam rem aperieaque ipsa quae ab illo inventore.veritatis. et quasi architecto beatae vitae dicta sunt explicabo.
   # funfacts
   funfacts :
+    bg_image : https://files.giaonhan.org/giaonhan.org_cta.webp
   - icon : ti-server # themify icon pack : https://themify.me/themify-icons
     title : Projects Done
     count : 230
