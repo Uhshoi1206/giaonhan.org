@@ -111,7 +111,7 @@ link = "danhthiep"
 # preloader
 [params.preloader]
 enable = false
-preloader = "images/preloader.gif"
+preloader = ""https://files.giaonhan.org/giaonhan.org_preloader.gif"
 
 # Subscription
 [params.subscription]
@@ -129,7 +129,7 @@ enable = true
 gmap_api = "AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU"
 map_latitude = "51.5223477"
 map_longitude = "-0.1622023"
-map_marker = "images/marker.png"
+map_marker = "https://files.giaonhan.org/giaonhan.org_marker.png"
 
 
 ########################### social icon #####################################
