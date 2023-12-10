@@ -45,7 +45,7 @@ mission:
 ###################################### funfacts ####################################
 funfacts:
   enable : false
-  bg_image : images/background/cta.jpg
+  bg_image : https://files.giaonhan.org/giaonhan.org_cta.webp
   counter:
   - title : Projects Done
     icon : ti-server # themify icon pack : https://themify.me/themify-icons
