@@ -111,7 +111,7 @@ link = "danhthiep"
 # preloader
 [params.preloader]
 enable = false
-preloader = ""https://files.giaonhan.org/giaonhan.org_preloader.gif"
+preloader = "https://files.giaonhan.org/giaonhan.org_preloader.gif"
 
 # Subscription
 [params.subscription]
