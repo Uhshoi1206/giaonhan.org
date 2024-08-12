@@ -1,6 +1,10 @@
 ######################### default configuration ###############################
 baseURL = "https://giaonhan.org/"
+enableRobotsTXT = true
 title = "giaonhan.org"
+canonifyURLs = true
+enableEmoji = true
+enableGitInfo = true
 theme = "giaonhan.org"
 # post pagination
 paginate = "6"
