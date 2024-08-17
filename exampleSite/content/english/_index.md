@@ -155,7 +155,7 @@ testimonial:
   title : Hãy nghe khách hàng nói về chúng tôi
   image : https://files.giaonhan.org/giaonhan.org_client.webp
   testimonial_item :
-  - name : Nguyễn Quang Tuấn - Trưởng phòng giao vận
+  - name : Bảo Lâm - Trưởng phòng giao vận
     content : Kể từ khi bắt đầu làm việc với giaonhan.org, chúng tôi đã thấy chuỗi cung ứng của mình được cải thiện đáng kể. Điều quan trọng là các sản phẩm của chúng tôi đã đến tay khách hàng một cách an toàn và đúng lịch, giaonhan.org đã vận chuyển sự yên tâm.
     designation : Nhôm Thành Công
     
